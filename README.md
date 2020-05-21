@@ -67,6 +67,8 @@
 | Redshift 	        | The most popular and fastest cloud data warehouse	for BI / Operational analytics| [Redshift](https://aws.amazon.com/redshift/?c=1&pt=7)|
 | Data Pipeline | Orchestration service for data movement.           | [Data Pipeline](https://aws.amazon.com/datapipeline/?c=1&pt=10)|
 | Glue 	        | ETL - Prepare and load data. Discovers your data and stores the associated metadata (e.g. table definition and schema) in the AWS Glue Data Catalog. Once cataloged, your data is immediately searchable, queryable, and available for ETL.| [Glue](https://aws.amazon.com/glue/?c=1&pt=11)  |
+| Lake Formation | Identify existing data stores in S3 or relational and NoSQL databases, and move the data into your data lake.        | [Lake Formation](https://aws.amazon.com/lake-formation/?c=1&pt=12)  |
+
 </details>
 
 ### 📦 Bigger Picture 
