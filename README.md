@@ -9,25 +9,38 @@
 #### Development
 |  Name |  Summary | Details  |   
 |:-:    |:-:       |:-:       |
-| [#](#-trends) 	| [Architecture](#Architecture-trends) 	| [EngineeringPractices](#EngineeringPractices-trends) |
+|  	| 	|  |
 
 
 #### Testing
+|  Name |  Summary | Details  |   
+|:-:    |:-:       |:-:       |
+|  	| 	|  |
 
 #### Infrastructure
+|  Name |  Summary | Details  |   
+|:-:    |:-:       |:-:       |
+|  	| 	|  |
 
 </details>
 
 ### 📃 Techniques
 <details>
 <summary>View Snapshot</summary>
-
+#### 
+|  Name |  Summary | Details  |   
+|:-:    |:-:       |:-:       |
+|  	| 	|  |
 
 </details>
 
 ### 🌐 Cloud
 <details>
 <summary>View Snapshot</summary>
+#### AWS
+|  Name |  Summary | Details  |   
+|:-:    |:-:       |:-:       |
+|  	| 	|  |
 
 </details>
 
@@ -35,7 +48,11 @@
 <details>
 <summary>View Snapshot</summary>
 
-#### Basics
+#### Engineering
+#### 
+|  Name |  Summary | Details  |   
+|:-:    |:-:       |:-:       |
+|  	| 	|  |
 
 </details>
 
