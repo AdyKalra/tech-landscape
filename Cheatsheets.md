@@ -5,3 +5,5 @@
 * [Platform Building cheatsheet](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/Platform-Building%20Cheat%20Sheet.md)
 
 * [aws-lambda-cheatsheet](https://github.com/srcecde/aws-lambda-cheatsheet)
+
+* [AWS cheatsheet](https://github.com/dennyzhang/cheatsheet-aws-A4/blob/master/README.org)
