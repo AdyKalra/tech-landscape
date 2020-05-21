@@ -3,3 +3,5 @@
 * [API Design cheatsheet](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/API%20Design%20Cheat%20Sheet.md)
 
 * [Platform Building cheatsheet](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/Platform-Building%20Cheat%20Sheet.md)
+
+* [aws-lambda-cheatsheet](https://github.com/srcecde/aws-lambda-cheatsheet)
