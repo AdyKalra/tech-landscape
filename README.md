@@ -73,12 +73,12 @@
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |
 | Step Functions | Build distributed applications using visual workflows | [Step Functions](https://aws.amazon.com/step-functions/?c=2&pt=1)  | **Data processing** - multiple ETL jobs execute in order, **Automate tasks** - routine deployments, upgrades, installations, and migrations, **recurring tasks** such as patch management, infrastructure selection, and data synchronization. , **Modernize a monolith** - carve off a few tasks from the rest of your codebase into microservices. **Application orchestration** - ombine multiple AWS Lambda functions into responsive serverless applications and microservices
-| AppFlow  | Integrate Saas apps like Salesforce, Marketo, Slack, and ServiceNow, and AWS services like Amazon S3 and Amazon Redshift, and automate data flows , without code  | [AppFlow](https://aws.amazon.com/appflow/?c=2&pt=2a)  | |
-|  	        | 	                             | []()  |  |
-|  	        | 	                             | []()  |  |
-|  	        | 	                             | []()  |  |
-|  	        | 	                             | []()  |  |
-|  	        | 	                             | []()  |  |
+| AppFlow  | Integrate Saas apps like Salesforce, Marketo, Slack, and ServiceNow, and AWS services like Amazon S3 and Amazon Redshift, and automate data flows , **without code** | [AppFlow](https://aws.amazon.com/appflow/?c=2&pt=2a)  | **Store or sync Salesforce data** **Hydrate data lakes** - send Dynatrace insights on application performance to a data lake **Routinely analyze events** create a data flow that sends event and conversation data from a Slack Channel to an Amazon Redshift or Snowflake data warehouse for downstream analysis. **Create routine reports of Datadog metrics** **Automate data back ups** - send high severity Zendesk tickets to Amazon S3 for further analysis|
+|  	        | 	                             | []()  | **** **** **** |
+|  	        | 	                             | []()  | **** **** **** |
+|  	        | 	                             | []()  | **** **** **** |
+|  	        | 	                             | []()  | **** **** **** |
+|  	        | 	                             | []()  | **** **** **** |
 </details>
 
 ### 📦 Bigger Picture 
