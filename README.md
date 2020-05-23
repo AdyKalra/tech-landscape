@@ -7,20 +7,23 @@
 <summary>View Snapshot</summary>
 
 #### Development
-|  Name |  Summary | Details  |   
-|:-:    |:-:       |:-:       |
-|  	| 	|  |
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| | | []() | **** **** **** |
+| | | []() | **** **** **** |
 
 
 #### Testing
-|  Name |  Summary | Details  |   
-|:-:    |:-:       |:-:       |
-|  	| 	|  |
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| | | []() | **** **** **** |
+| | | []() | **** **** **** |
 
 #### Infrastructure
-|  Name |  Summary | Details  |   
-|:-:    |:-:       |:-:       |
-|  	| 	|  |
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| | | []() | **** **** **** |
+| | | []() | **** **** **** |
 
 </details>
 
@@ -29,9 +32,10 @@
 <summary>View Snapshot</summary>
   
 #### Design Patterns
-|  Name |  Summary | Details  |   
-|:-:    |:-:       |:-:       |
-|  	| 	|  |
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| | | []() | **** **** **** |
+| | | []() | **** **** **** |
 
 </details>
 
@@ -75,10 +79,10 @@
 | Step Functions | Build distributed applications using visual workflows | [Step Functions](https://aws.amazon.com/step-functions/?c=2&pt=1)  | **Data processing** - multiple ETL jobs execute in order, **Automate tasks** - routine deployments, upgrades, installations, and migrations, **recurring tasks** such as patch management, infrastructure selection, and data synchronization. , **Modernize a monolith** - carve off a few tasks from the rest of your codebase into microservices. **Application orchestration** - ombine multiple AWS Lambda functions into responsive serverless applications and microservices
 | AppFlow  | Integrate Saas apps like Salesforce, Marketo, Slack, and ServiceNow, and AWS services like Amazon S3 and Amazon Redshift, and automate data flows , **without code** | [AppFlow](https://aws.amazon.com/appflow/?c=2&pt=2a)  | **Store or sync Salesforce data** **Hydrate data lakes** - send Dynatrace insights on application performance to a data lake **Routinely analyze events** create a data flow that sends event and conversation data from a Slack Channel to an Amazon Redshift or Snowflake data warehouse for downstream analysis. **Create routine reports of Datadog metrics** **Automate data back ups** - send high severity Zendesk tickets to Amazon S3 for further analysis|
 | EventBridge| Serverless event bus that connects application data from your own apps, SaaS, and AWS services| [EventBridge](https://aws.amazon.com/eventbridge/?c=2&pt=2)  | **Customer support** - send status changes in customer support tickets to EventBridge and trigger an automated workflow **Security operations** - include threat detection events in a Whispir communications workflow, or automate the delivery of security system reports with event-based rules. **Business operations** - to connect PagerDuty incidents to an Amazon Redshift data warehouse, so you can analyze the remediation velocity and average operational load on engineering teams. **Application monitoring** - send load volume alerts from DataDog to EventBridge to trigger an AWS Lambda function that scales your EC2 instances to handle the expected load increase. **Directory registration** - send new user creation events from OneLogin to EventBridge, and route them to a Lambda function that makes technical resources available to newly hired engineers. **Customer data updates** - you can send an event to EventBridge when the status of a SugarCRM opportunity changes to “Closed Won,” and trigger a workflow that will provision billing records |
-| | | []()  | **** **** **** |
-| | | []()  | **** **** **** |
-| | | []()  | **** **** **** |
-| | | []()  | **** **** **** |
+| Simple Notification Service | Pub/Sub , Mobile Push and SMS | [SNS](https://aws.amazon.com/sns/?c=2&pt=4) | SNS reliably delivers messages to all supported AWS endpoints, such as Amazon **SQS queues and AWS Lambda functions. In case the subscribed endpoint isn't available, Amazon SNS executes message delivery retry policies and can also move messages to dead-letter queues (DLQ).** **Message Filtering** - simplify your pub/sub messaging architecture by offloading the message filtering logic from your subscriber systems, and message routing logic from your publisher systems. CloudWatch gives visibility into your filtering activity, and CloudFormation enables you to deploy subscription filter policies in an automated and secure manner. **** |
+| | | []() | **** **** **** |
+| | | []() | **** **** **** |
+
 
 </details>
 
@@ -87,9 +91,10 @@
 <summary>View Snapshot</summary>
 
 #### Engineering
-|  Name |  Summary | Details  |   
-|:-:    |:-:       |:-:       |
-| Test 	        | Test	                             | []()  |
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| | | []() | **** **** **** |
+| | | []() | **** **** **** |
 
 
 </details>
