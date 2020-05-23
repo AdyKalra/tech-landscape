@@ -69,6 +69,16 @@
 | Glue 	        | ETL - Prepare and load data. Discovers your data and stores the associated metadata (e.g. table definition and schema) in the AWS Glue Data Catalog. Once cataloged, your data is immediately searchable, queryable, and available for ETL.| [Glue](https://aws.amazon.com/glue/?c=1&pt=11)  |
 | Lake Formation | Identify existing data stores in S3 or relational and NoSQL databases, and move the data into your data lake.        | [Lake Formation](https://aws.amazon.com/lake-formation/?c=1&pt=12)  |
 
+##### Application Integration
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |
+| Step Functions | Build distributed applications using visual workflows | [Step Functions](https://aws.amazon.com/step-functions/?c=2&pt=1)  | **Data processing** - multiple ETL jobs execute in order, **Automate tasks** - routine deployments, upgrades, installations, and migrations, **recurring tasks** such as patch management, infrastructure selection, and data synchronization. , **Modernize a monolith** - carve off a few tasks from the rest of your codebase into microservices. **Application orchestration** - ombine multiple AWS Lambda functions into responsive serverless applications and microservices
+| AppFlow  | Integrate Saas apps like Salesforce, Marketo, Slack, and ServiceNow, and AWS services like Amazon S3 and Amazon Redshift, and automate data flows , without code  | [AppFlow](https://aws.amazon.com/appflow/?c=2&pt=2a)  | |
+|  	        | 	                             | []()  |  |
+|  	        | 	                             | []()  |  |
+|  	        | 	                             | []()  |  |
+|  	        | 	                             | []()  |  |
+|  	        | 	                             | []()  |  |
 </details>
 
 ### 📦 Bigger Picture 
@@ -82,6 +92,3 @@
 
 
 </details>
-
-
-
