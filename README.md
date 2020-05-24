@@ -58,21 +58,22 @@
 | Batch | Run batch jobs at any scale | [Batch](https://aws.amazon.com/batch/?c=7&pt=7) | **Automate** the analysis of the day’s transaction costs, execution reporting, and market performance. Automate content rendering workloads and reduce the need for human intervention due to execution dependencies or resource scheduling. | 
 
 ##### Analytics
-|  Name |  Summary | Details  |   
-|:-:    |:-:       |:-:       |
-| Athena 	          | Query data in S3 using SQL	                           | [Athena](https://aws.amazon.com/athena/?c=1&pt=1)       |
-| CloudSearch 	    | Managed search service	                           | [CloudSearch](https://aws.amazon.com/cloudsearch/?c=1&pt=2) |
-| Elasticsearch Service| Fully managed and scalable ES with built-in Kibana	| [Elasticsearch](https://aws.amazon.com/elasticsearch-service/?c=1&pt=3) |
-| Kinesis | Easily collect, process, and analyze video and data streams in real time |[Kinesis](https://aws.amazon.com/kinesis/?c=1&pt=5) |
-| Kinesis Video Streams | Capture, process, and store media streams for playback, analytics, and machine learning	                             | [Video Streams](https://aws.amazon.com/kinesis/video-streams/)  |
-| Kinesis Data Streams| Manually managed - Collect streaming data, at scale, for real-time analytics | [Streams](https://aws.amazon.com/kinesis/data-streams/)  |
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |
+| Athena | Query data in S3 using SQL	| [Athena](https://aws.amazon.com/athena/?c=1&pt=1) | **NO ETL** Just point to your data in Amazon S3, define the schema, and start querying using the built-in query editor.  | 
+| CloudSearch | Managed search service | [CloudSearch](https://aws.amazon.com/cloudsearch/?c=1&pt=2) | - | 
+| Elasticsearch Service| Fully managed and scalable ES with built-in Kibana	| [Elasticsearch](https://aws.amazon.com/elasticsearch-service/?c=1&pt=3) | **Application monitoring**  analyze logs from its applications to identify and resolve performance bottlenecks or availability issues, ensuring streamlined experience. Amazon Elasticsearch Service with Kibana to quickly index, search, and visualize logs from its routers, applications, and other devices to find and prevent **security threats**. |
+| Kinesis | Easily collect, process, and analyze video and data streams in real time |[Kinesis](https://aws.amazon.com/kinesis/?c=1&pt=5) | - |
+| Kinesis Video Streams | Capture, process, and store media streams for playback, analytics, and machine learning	                             | [Video Streams](https://aws.amazon.com/kinesis/video-streams/)  | - |
+| Kinesis Data Streams| Manually managed - Collect streaming data, at scale, for real-time analytics | [Streams](https://aws.amazon.com/kinesis/data-streams/)  | - |
 | Kinesis Data Firehose | Fully Managed - Prepare and load real-time data streams into load streaming data into data lakes, data stores and analytics tools. Use Kinesis Streams if you want to do some custom processing with streaming data. With Kinesis Firehose you are simply ingesting it into S3, Redshift or ElasticSearch| [Firehose](https://aws.amazon.com/kinesis/data-firehose/)  |
-| Kinesis Data Analytics | analyze streaming data, gain actionable insights | [Analytics](https://aws.amazon.com/kinesis/data-analyticsAnalytics/)  |
-| Managed Kafka(MSK) | Fully managed, highly available, and secure Apache Kafka service | [MSK](https://aws.amazon.com/msk/?c=1&pt=6) |
-| Redshift 	        | The most popular and fastest cloud data warehouse	for BI / Operational analytics| [Redshift](https://aws.amazon.com/redshift/?c=1&pt=7)|
-| Data Pipeline | Orchestration service for data movement.           | [Data Pipeline](https://aws.amazon.com/datapipeline/?c=1&pt=10)|
-| Glue 	        | ETL - Prepare and load data. Discovers your data and stores the associated metadata (e.g. table definition and schema) in the AWS Glue Data Catalog. Once cataloged, your data is immediately searchable, queryable, and available for ETL.| [Glue](https://aws.amazon.com/glue/?c=1&pt=11)  |
-| Lake Formation | Identify existing data stores in S3 or relational and NoSQL databases, and move the data into your data lake.        | [Lake Formation](https://aws.amazon.com/lake-formation/?c=1&pt=12)  |
+| Kinesis Data Analytics | analyze streaming data, gain actionable insights | [Analytics](https://aws.amazon.com/kinesis/data-analyticsAnalytics/)  | - |
+| Managed Kafka(MSK) | Fully managed, highly available, and secure Apache Kafka service | [MSK](https://aws.amazon.com/msk/?c=1&pt=6) | - |
+| Redshift | The most popular and fastest cloud data warehouse	for BI / Operational analytics| [Redshift](https://aws.amazon.com/redshift/?c=1&pt=7)| - |
+| Data Pipeline | Orchestration service for data movement. | [Data Pipeline](https://aws.amazon.com/datapipeline/?c=1&pt=10)| - |
+| Glue | ETL - Prepare and load data. Discovers your data and stores the associated metadata (e.g. table definition and schema) in the AWS Glue Data Catalog. Once cataloged, your data is immediately searchable, queryable, and available for ETL.| [Glue](https://aws.amazon.com/glue/?c=1&pt=11)  | Queries against an Amazon S3 data lake. **Analyze log data in your data warehouse like RDS** cleanse and flatten the data. **Unified view of your data across multiple data stores** AWS Glue Data Catalog to quickly discover and search across multiple AWS data sets without moving the data.  |
+| Lake Formation | Identify existing data stores in S3 or relational and NoSQL databases, and move the data into your data lake.        | [Lake Formation](https://aws.amazon.com/lake-formation/?c=1&pt=12)  | - |
+|Data Exchange|find and subscribe to third-party data in the cloud|[Data Exchange](https://aws.amazon.com/data-exchange/?c=1&pt=9)| more than 1,000 data products now available from more than 80 qualified data providers in AWS Marketplace. |
 
 ##### Application Integration
 |  Name |  Summary | Details  | Use cases |  
