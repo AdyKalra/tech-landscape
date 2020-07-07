@@ -16,6 +16,15 @@
 | react-vis  | react visualisations | [react-vis](http://uber.github.io/react-vis/#/examples/showcases/misc) |
 | miro | miro board | [miro](https://miro.com/login/) |
 | knightlab | storytelling | [knightlab](https://knightlab.northwestern.edu/projects/) [example](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1JBjVK3qm-geGXRVSH9_bHmIPvteLHiAq80vuLiA493c&font=Default&lang=en&initial_zoom=2&height=650)|
+| image-map | graphic image where a user can click on different parts of the image and be directed to different destinations | [imagemap](https://www.image-map.net/) |
+| kaggle | ML ranking | [kaggle](https://www.kaggle.com/) |
+| Visualgo | visualising data structures and algorithms through animation | [visualgo](https://visualgo.net/en) |
+| milanote | organising thoughts / tasks | [milanote](https://app.milanote.com/1DZBMs11ZuiWvj/adys-main-board) |
+| Outline  | remove adverts  | [outline](https://www.outline.com/) |
+| freecodecamp | coding | [freecodecamp](https://www.freecodecamp.org/learn/) |
+| codepen | front-end coding | [codepen](https://codepen.io/) |
+| devopsbookmarks | devops bookmarks | [devopsbookmarks](http://www.devopsbookmarks.com/virt) |
+| piktochart  | Infographs | [](https://create.piktochart.com/dashboard) |
 |  |  | []() |
 |  |  | []() |
 |  |  | []() |
