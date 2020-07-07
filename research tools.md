@@ -24,12 +24,16 @@
 | freecodecamp | coding | [freecodecamp](https://www.freecodecamp.org/learn/) |
 | codepen | front-end coding | [codepen](https://codepen.io/) |
 | devopsbookmarks | devops bookmarks | [devopsbookmarks](http://www.devopsbookmarks.com/virt) |
-| piktochart  | Infographs | [](https://create.piktochart.com/dashboard) |
-|  |  | []() |
-|  |  | []() |
-|  |  | []() |
-|  |  | []() |
-|  |  | []() |
-|  |  | []() |
-|  |  | []() |
+| piktochart  | Infographs | [piktochart](https://create.piktochart.com/dashboard) |
+| unicode-table | Unicode Character Table | [unicode-table](https://unicode-table.com/en/) |
+| UnicodeMapper | Unicode Text Converter | [UnicodeMapper](http://slothsoft.net/UnicodeMapper/) |
+| socialmediaexaminer | creating documents on LinkedIn | [socialmediaexaminer](https://www.socialmediaexaminer.com/how-to-share-documents-linkedin-posts-marketing-tips/) |
+| stackshare  | stack comaprison and tools categorized by tiers | [stackshare](https://stackshare.io/categories) |
+| scrapy | scraping data you need from websites. | [scrapy](https://scrapy.org/) |
+| word-cloud | create a word-cloud | [word-cloud](https://worditout.com/word-cloud/create) |
+| gitprime alternates | alternates for gitprime | [gitprime](https://www.producthunt.com/alternatives/gitprime) |
+| flinga | collaborative whiteboards / wall | [flinga](https://flinga.fi/tools) |
+| prettyawesomelists | Curated lists of awesome links around a specific topic | [prettyawesomelists](https://www.prettyawesomelists.com/) |
+| visme | infographics | [visme](https://dashboard.visme.co/login#/infographics) |
+| visualizing-employee-compensation | visualizing-employee-compensation | [visualizing-employee-compensation](https://www.grayscalable.com/blog/2017/2/1/visualizing-employee-compensation) |
 |  |  | []() |
