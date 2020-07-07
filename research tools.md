@@ -14,9 +14,8 @@
 | gitlogs | GitHub News: Discover the Top Trending Repos | [gitlogs](https://www.gitlogs.com/) |
 | astralapp | manage tagged repos | [astralapp](https://app.astralapp.com/) |
 | react-vis  | react visualisations | [react-vis](http://uber.github.io/react-vis/#/examples/showcases/misc) |
-|  |  | []() |
-|  |  | []() |
-|  |  | []() |
+| miro | miro board | [miro](https://miro.com/login/) |
+| knightlab | storytelling | [knightlab](https://knightlab.northwestern.edu/projects/) [example](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1JBjVK3qm-geGXRVSH9_bHmIPvteLHiAq80vuLiA493c&font=Default&lang=en&initial_zoom=2&height=650)|
 |  |  | []() |
 |  |  | []() |
 |  |  | []() |
