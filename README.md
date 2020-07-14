@@ -58,7 +58,7 @@
 #### Engineering
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
-| | | []() | **** **** **** |
+| **Testing** Roadmap | Test Plan template, testing startegies, testing types, TDD , automation - mobile , web , API , contrct testing Packt| [Testing Raodmap](https://github.com/anas-qa/Quality-Assurance-Road-Map) | **Testing Pyramid , Gap Analysis , Customer Insights , E2E regression suite** |
 | | | []() | **** **** **** |
 
 
