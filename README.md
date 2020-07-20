@@ -9,7 +9,7 @@
 #### Development
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
-| | | []() | **** **** **** |
+| Stackshare tools | All the best open source and Software as a Service (SaaS) tools in one place | [Stackshare tools](https://stackshare.io/categories) | quick snapshot while making decisions |
 | | | []() | **** **** **** |
 
 
