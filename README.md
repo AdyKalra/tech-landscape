@@ -8,12 +8,17 @@
 #### Transformation Challenges 
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
+| Lack of expertise and exposure |  | []() | **** **** **** |
+| pushback from people and existing leaders | | []() | **** **** **** |
+| missing the overarching strategy across all business units in Digital | | []() | **** **** **** |
+| new technologies / lack of skils  | | []() | **** **** **** |
+| resistance to change / mindset shift  | | []() | **** **** **** |
 | | | []() | **** **** **** |
-
 
 #### Operating Model 
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
+| Idea - Plan - Build - measure | | []() | **** **** **** |
 | | | []() | **** **** **** |
 
 </details>
@@ -42,15 +47,25 @@
 | Google Engineering practices | Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time. | [Google Engineering practices](https://github.com/google/eng-practices) | Sensible Deafults template for practices |
 | Four key metrics | MMTR , Lead Time , Deployment frequency and Change fail rate | []() | Measure engineering team health |
 | Gitprime for data driven mindset | Coding Days | Impact | Efficiency | Commits per day | Repos  | []() | Data driven engineering metrics |
-| | | []() | **** **** **** |
+| Technology Radar | Internal tooling maturity | []() | **** **** **** |
+| Engineering maturity assessment | 12 factor app | []() | measure engineering maturity every quarter |
 
 #### Engineering Challenges
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
-| Champions  | lead mini transformations | []() | **** **** **** |
 | Bug Bash | testing across verticals | []() | **** **** **** |
-| Technology Radar | Internal tooling maturity | []() | **** **** **** |
-| | | []() | **** **** **** |
+| Going 100% on cloud and having a cloud first approach | | []() | **** **** **** |
+| Moving offshore teams and establishing greenfield teams here | | []() | **** **** **** |
+| transitioning from Devops to CPT  | | []() | **** **** **** |
+| transitioning from legacy PHP to a SPA built on React and NodeJS (tiger team) | []() | **** **** **** |
+| Going completely srverless | | []() | **** **** **** |
+
+
+#### Change Management
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| Champions  | lead mini transformations | []() | **** **** **** |
+| building a repository of design patterns , BFF / XL , Domain driven design  | | []() | **** **** **** |
 
 </details>
 
@@ -70,6 +85,8 @@
 #### Cloud Ideas / Techniques 
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
+| STAX / Cloud Confirmity | cloud compliance and measuring where we are , cost  | []() | **** **** **** |
+| Well architected framework | Cloud maturity and assesment | []() | **** **** **** |
 | | | []() | **** **** **** |
 
 </details>
