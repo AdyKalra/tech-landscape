@@ -13,7 +13,7 @@ https://github.com/AdyKalra/tech-landscape#challenges
 <details>
 <summary>View Snapshot</summary>
 
-#### Challenges 
+#### Transformation Challenges 
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
 | Stackshare tools | All the best open source and Software as a Service (SaaS) tools in one place | [Stackshare tools](https://stackshare.io/categories) | quick snapshot while making decisions |
@@ -40,13 +40,13 @@ https://github.com/AdyKalra/tech-landscape#challenges
 | | | []() | **** **** **** |
 | | | []() | **** **** **** |
 
-#### Ideas Techniques 
+#### Engineering Ideas / Techniques 
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
 | | | []() | **** **** **** |
 | | | []() | **** **** **** |
 
-#### Challenges
+#### Engineering Challenges
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
 | | | []() | **** **** **** |
@@ -59,7 +59,7 @@ https://github.com/AdyKalra/tech-landscape#challenges
 <details>
 <summary>View Snapshot</summary>
   
-#### Tools 
+#### Cloud Tools 
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
 |serverless cdk patterns|ll of the official AWS Serverless architecture patterns built with CDK for developers to use.|[cdk patterns](https://github.com/cdk-patterns/serverless)| SensibleDeafults for Patterns used |
@@ -67,7 +67,7 @@ https://github.com/AdyKalra/tech-landscape#challenges
 | Design Patterns | collection of solutions and design ideas for using AWS cloud technology to solve common systems design problems | [Design Patterns](http://en.clouddesignpattern.org/index.php/Main_Page) | sensible defaults Design Patterns / catalouge |
 | this-is-my-architecture | Innovative cloud architectures from AWS partners and customers | [this-is-my-architecture](https://aws.amazon.com/this-is-my-architecture/?sc_channel=EL&sc_campaign=Explainer_2017_vid&sc_medium=YouTube&sc_content=video942&sc_detail=EXPLAINER&sc_country=US&tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc) | Clarity of bigger picture within Org |
 
-#### Ideas Techniques 
+#### Cloud Ideas / Techniques 
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
 | | | []() | **** **** **** |
