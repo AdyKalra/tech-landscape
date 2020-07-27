@@ -1,9 +1,5 @@
 # Tech Landscape
 ## 📚 Table of Contents
-* [Digital Transformation](https://github.com/AdyKalra/tech-landscape/blob/master/README.md#-digital-transformation)
-  * [Challenges](https://github.com/AdyKalra/tech-landscape/blob/master/README.md#transformation-challenges)
-  * [Operating Model](https://github.com/AdyKalra/tech-landscape/blob/master/README.md#operating-model)
-
 
 ### 🔧 Digital Transformation
 <details>
