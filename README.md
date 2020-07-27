@@ -15,8 +15,6 @@
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
 | | | []() | **** **** **** |
-| | | []() | **** **** **** |
-
 
 </details>
 
@@ -34,6 +32,7 @@
 | **Back end Development** Roadmap| C#, Java, Go, Python. Realational , NoSQL , Data Sharding , Replication , CAP. Authentication Oauth, token , JWT, SAML. apis - JSON, SOAP. Caching - DNS , serverside, clientside - Redis, MemCached. Design practices - GOF , DDD , TDD , SOLID, KISS , YAGNI, DRY. Architectural patterns - Microservices, SOA, Serverless. Messagebrokers , RabbitMQ , Kafka. Containers - Docker , GarphQL, Neo4j.     | [Back-end Roadmap](https://github.com/kamranahmedse/developer-roadmap) | **** **** **** |
 | **DevOps** Roadmap| Pytho, Ruby , NodeJS. initd, systemd. OS - Linus , FreeBSD. Terminal - maniupaltion tools,, BASH, vim, network. Protocosl - http, ftp, ssh. Reverseproxy, Caching server, Forward Proxy , Load balancer, firewall. Webserver - Nginx, Service Mesh - Istio. Containers, Config mgmt, container orchestration, Infra provisioning. CI/CD tools, Infra monitoring - Prometheus , Nagios, Grafana. Appln Monitoring - NewRelic , AppDynamics. Log Mgmt - Elastic stalk, splunk sumo. Cloud - AWS , GCP, Azure. Cloud Design Patterns - Availability , Data Management.  | [Devops Roadmap](https://github.com/kamranahmedse/developer-roadmap) | **** **** **** |
 |**Andoid Development** |Kotlin , Java | [android](https://roadmap.sh/android) | **** **** **** |
+| | | []() | **** **** **** |
 
 
 #### Engineering Ideas / Techniques 
@@ -41,13 +40,17 @@
 |:-:    |:-:       |:-:       |:-:        |  
 | **all Reference Roadmaps**| roadmaps on web | [engineering roadmaps](https://roadmap.sh/) | **** **** **** |
 | Google Engineering practices | Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time. | [Google Engineering practices](https://github.com/google/eng-practices) | Sensible Deafults template for practices |
+| Four key metrics | MMTR , Lead Time , Deployment frequency and Change fail rate | []() | Measure engineering team health |
+| Gitprime for data driven mindset | Coding Days | Impact | Efficiency | Commits per day | Repos  | []() | Data driven engineering metrics |
+| | | []() | **** **** **** |
 
 #### Engineering Challenges
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
+| Champions  | lead mini transformations | []() | **** **** **** |
+| Bug Bash | testing across verticals | []() | **** **** **** |
+| Technology Radar | Internal tooling maturity | []() | **** **** **** |
 | | | []() | **** **** **** |
-| | | []() | **** **** **** |
-
 
 </details>
 
@@ -62,11 +65,11 @@
 | awesome-cloudformation | A curated list of resources and projects for working with AWS CloudFormation. https://aws.amazon.com/cloudformation/ | [cloudformation](https://github.com/aws-cloudformation/awesome-cloudformation) | cloud formation catalouge |
 | Design Patterns | collection of solutions and design ideas for using AWS cloud technology to solve common systems design problems | [Design Patterns](http://en.clouddesignpattern.org/index.php/Main_Page) | sensible defaults Design Patterns / catalouge |
 | this-is-my-architecture | Innovative cloud architectures from AWS partners and customers | [this-is-my-architecture](https://aws.amazon.com/this-is-my-architecture/?sc_channel=EL&sc_campaign=Explainer_2017_vid&sc_medium=YouTube&sc_content=video942&sc_detail=EXPLAINER&sc_country=US&tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc) | Clarity of bigger picture within Org |
+| | | []() | **** **** **** |
 
 #### Cloud Ideas / Techniques 
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
-| | | []() | **** **** **** |
 | | | []() | **** **** **** |
 
 </details>
@@ -85,5 +88,6 @@
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
 | working backwards from customer insights | VOC , GA |  | | 
+| | | []() | **** **** **** |
 
 </details>
