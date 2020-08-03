@@ -6,29 +6,6 @@
 <details>
 <summary>View Snapshot</summary>
 
-#### Transformation Challenges 
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-| Lack of expertise and exposure |  | []() | **** **** **** |
-| pushback from people and existing leaders | | []() | **** **** **** |
-| missing the overarching strategy across all business units in Digital | | []() | **** **** **** |
-| new technologies / lack of skils  | | []() | **** **** **** |
-| resistance to change / mindset shift  | | []() | **** **** **** |
-| | | []() | **** **** **** |
-
-#### Operating Model 
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-| Idea - Plan - Build - measure | | []() | **** **** **** |
-| | | []() | **** **** **** |
-
-</details>
-
-### 📃 Process
-<details>
-<summary>View Snapshot</summary>
-
-
 #### Tools / Practices 
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
@@ -41,15 +18,18 @@
 | | | []() | **** **** **** |
 
 
-#### Engineering Ideas / Techniques 
+</details>
+
+### 📃 Process
+<details>
+<summary>View Snapshot</summary>
+
+#### Customer First
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
-| **all Reference Roadmaps**| roadmaps on web | [engineering roadmaps](https://roadmap.sh/) | **** **** **** |
-| Google Engineering practices | Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time. | [Google Engineering practices](https://github.com/google/eng-practices) | Sensible Deafults template for practices |
-| Four key metrics | MMTR , Lead Time , Deployment frequency and Change fail rate | []() | Measure engineering team health |
-| Gitprime for data driven mindset | Coding Days | Impact | Efficiency | Commits per day | Repos  | []() | Data driven engineering metrics |
-| Technology Radar | Internal tooling maturity | []() | **** **** **** |
-| Engineering maturity assessment | 12 factor app | []() | measure engineering maturity every quarter |
+| working backwards from customer insights | VOC , GA |  | | 
+| | | []() | **** **** **** |
+
 
 #### Engineering Challenges
 |  Name |  Summary | Details  | Use cases |  
@@ -114,16 +94,30 @@
 <details>
 <summary>View Snapshot</summary>
   
-#### People
+#### Engineering Ideas / Techniques 
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
-| 20 patterns to watch for in your engineering team | teamd and IC patterns | [patterns in teams and ICs](https://www.pluralsight.com/product/flow/20-patterns) | tools like flow and decision making |
-| | | []() | **** **** **** |
-
-#### Customer First
+| **all Reference Roadmaps**| roadmaps on web | [engineering roadmaps](https://roadmap.sh/) | **** **** **** |
+| Google Engineering practices | Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time. | [Google Engineering practices](https://github.com/google/eng-practices) | Sensible Deafults template for practices |
+| Four key metrics | MMTR , Lead Time , Deployment frequency and Change fail rate | []() | Measure engineering team health |
+| Gitprime for data driven mindset | Coding Days | Impact | Efficiency | Commits per day | Repos  | []() | Data driven engineering metrics |
+| Technology Radar | Internal tooling maturity | []() | **** **** **** |
+| Engineering maturity assessment | 12 factor app | []() | measure engineering maturity every quarter |
+  
+#### Transformation Challenges 
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
-| working backwards from customer insights | VOC , GA |  | | 
+| Lack of expertise and exposure |  | []() | **** **** **** |
+| pushback from people and existing leaders | | []() | **** **** **** |
+| missing the overarching strategy across all business units in Digital | | []() | **** **** **** |
+| new technologies / lack of skils  | | []() | **** **** **** |
+| resistance to change / mindset shift  | | []() | **** **** **** |
 | | | []() | **** **** **** |
 
+#### Operating Model 
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| Idea - Plan - Build - measure | | []() | **** **** **** |
+| | | []() | **** **** **** |
+  
 </details>
