@@ -5,6 +5,41 @@
 ### 🔧 Technical
 <details>
 <summary>View Snapshot</summary>
+    
+#### Front-end Development Practice
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| | | []() | **** **** **** |
+
+#### Back-end Development Practice
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| | | []() | **** **** **** |
+
+#### Mobile Development Practice
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| | | []() | **** **** **** |
+
+#### Testing Practice
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| | | []() | **** **** **** |
+
+#### DevOps Practice
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| | | []() | **** **** **** |
+
+#### Architecture Practice
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| | | []() | **** **** **** |
+
+#### Operations
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| | | []() | **** **** **** |
 
 #### Tools / Practices 
 |  Name |  Summary | Details  | Use cases |  
@@ -17,19 +52,37 @@
 |**Andoid Development** |Kotlin , Java | [android](https://roadmap.sh/android) | **** **** **** |
 | | | []() | **** **** **** |
 
-
 </details>
 
 ### 📃 Process
 <details>
 <summary>View Snapshot</summary>
 
-#### Customer First
+#### Customer Insights
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
 | working backwards from customer insights | VOC , GA |  | | 
 | | | []() | **** **** **** |
 
+#### Teams Experimentation
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| | | []() | **** **** **** |
+
+#### Streamlining Change Approval
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| | | []() | **** **** **** |
+
+#### Visibility of Work in Value Stream
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| | | []() | **** **** **** |
+
+#### Working in smaller batches / Process limits 
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| | | []() | **** **** **** |
 
 #### Engineering Challenges
 |  Name |  Summary | Details  | Use cases |  
@@ -53,7 +106,27 @@
 ### 🔍 Measurement
 <details>
 <summary>View Snapshot</summary>
-  
+
+#### Monitoring
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| | | []() | **** **** **** |
+
+#### Proactive failiure notification
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| | | []() | **** **** **** |
+
+#### Visual Management Capabilities
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| | | []() | **** **** **** |
+
+#### Engineering efficiency 
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| | | []() | **** **** **** |
+
 #### Cloud Tools / Practices
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
@@ -76,17 +149,29 @@
 <details>
 <summary>View Snapshot</summary>
   
-#### People
+#### People / Recruitment
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
 | 20 patterns to watch for in your engineering team | teamd and IC patterns | [patterns in teams and ICs](https://www.pluralsight.com/product/flow/20-patterns) | tools like flow and decision making |
 | | | []() | **** **** **** |
 
-#### Customer First
+#### Job Satisfaction
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
-| working backwards from customer insights | VOC , GA |  | | 
 | | | []() | **** **** **** |
+
+
+#### Westrum Organisation Culture
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| | | []() | **** **** **** |
+
+
+#### Learning Culture
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| | | []() | **** **** **** |
+
 
 </details>
 
