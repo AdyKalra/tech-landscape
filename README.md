@@ -1,7 +1,7 @@
 # Tech Landscape
 ## 📚 Table of Contents
 
-### 🔧 Digital Transformation
+### 🔧 Technical
 <details>
 <summary>View Snapshot</summary>
 
@@ -23,7 +23,7 @@
 
 </details>
 
-### 📃 Engineering Strategy
+### 📃 Process
 <details>
 <summary>View Snapshot</summary>
 
@@ -69,7 +69,7 @@
 
 </details>
 
-### 🌐 Cloud Strategy
+### 🌐 Measurement
 <details>
 <summary>View Snapshot</summary>
   
@@ -91,7 +91,25 @@
 
 </details>
 
-### 📦 Bigger Picture 
+### 📦 Cultural  
+<details>
+<summary>View Snapshot</summary>
+  
+#### People
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| 20 patterns to watch for in your engineering team | teamd and IC patterns | [patterns in teams and ICs](https://www.pluralsight.com/product/flow/20-patterns) | tools like flow and decision making |
+| | | []() | **** **** **** |
+
+#### Customer First
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| working backwards from customer insights | VOC , GA |  | | 
+| | | []() | **** **** **** |
+
+</details>
+
+### 📦 Strategic  
 <details>
 <summary>View Snapshot</summary>
   
