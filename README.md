@@ -92,7 +92,7 @@
 
 </details>
 
-### 🧑‍🤝‍🧑 Cultural  
+### 🤝‍ Cultural  
 <details>
 <summary>View Snapshot</summary>
   
