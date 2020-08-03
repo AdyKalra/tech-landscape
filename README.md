@@ -5,6 +5,9 @@
 ### 🔧 Technical
 <details>
 <summary>View Snapshot</summary>
+
+
+## Requirements management, design and development services across a portfolio of applications and supporting frameworks.
     
 #### Front-end Development Practice
 |  Name |  Summary | Details  | Use cases |  
@@ -16,12 +19,14 @@
 |:-:    |:-:       |:-:       |:-:        |  
 | | | []() | **** **** **** |
 
-#### Mobile Development Practice
+#### Testing Practice
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
 | | | []() | **** **** **** |
 
-#### Testing Practice
+## Support for multi-device access
+
+#### Mobile Development Practice
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
 | | | []() | **** **** **** |
@@ -41,6 +46,8 @@
 |:-:    |:-:       |:-:       |:-:        |  
 | | | []() | **** **** **** |
 
+## Feasibility studies, time and cost estimates, and the establishment and implementation of new or revised applications systems and programs
+
 #### Tools / Practices 
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
@@ -51,6 +58,7 @@
 | **DevOps** Roadmap| Pytho, Ruby , NodeJS. initd, systemd. OS - Linus , FreeBSD. Terminal - maniupaltion tools,, BASH, vim, network. Protocosl - http, ftp, ssh. Reverseproxy, Caching server, Forward Proxy , Load balancer, firewall. Webserver - Nginx, Service Mesh - Istio. Containers, Config mgmt, container orchestration, Infra provisioning. CI/CD tools, Infra monitoring - Prometheus , Nagios, Grafana. Appln Monitoring - NewRelic , AppDynamics. Log Mgmt - Elastic stalk, splunk sumo. Cloud - AWS , GCP, Azure. Cloud Design Patterns - Availability , Data Management.  | [Devops Roadmap](https://github.com/kamranahmedse/developer-roadmap) | **** **** **** |
 |**Andoid Development** |Kotlin , Java | [android](https://roadmap.sh/android) | **** **** **** |
 | | | []() | **** **** **** |
+
 
 </details>
 
@@ -106,6 +114,8 @@
 ### 🔍 Measurement
 <details>
 <summary>View Snapshot</summary>
+    
+##  Forecasting and defining  software and hardware requirements to cater to business needs 
 
 #### Monitoring
 |  Name |  Summary | Details  | Use cases |  
@@ -148,24 +158,28 @@
 ### 🤝‍ Cultural  
 <details>
 <summary>View Snapshot</summary>
-  
+
+## Assign personnel to various projects and directs activities
+
 #### People / Recruitment
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
 | 20 patterns to watch for in your engineering team | teamd and IC patterns | [patterns in teams and ICs](https://www.pluralsight.com/product/flow/20-patterns) | tools like flow and decision making |
 | | | []() | **** **** **** |
 
+## Reviews and evaluate work
+
 #### Job Satisfaction
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
 | | | []() | **** **** **** |
 
+## High quality self-service channel for our users 
 
 #### Westrum Organisation Culture
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
 | | | []() | **** **** **** |
-
 
 #### Learning Culture
 |  Name |  Summary | Details  | Use cases |  
@@ -175,10 +189,18 @@
 
 </details>
 
-### 💡 Strategic  
+### 💡 Strategic 
 <details>
 <summary>View Snapshot</summary>
-  
+
+## Strategic direction of product, services and technology
+
+## Modernisation and uplift of our software development practices
+
+## Disparate / aging UIs
+
+## Transformation of Technology stack toward digital services
+
 #### Engineering Ideas / Techniques 
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
