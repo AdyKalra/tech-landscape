@@ -195,11 +195,15 @@
 
 ## Strategic direction of product, services and technology
 
+### Product optimisation and implementation
+
 ## Modernisation and uplift of our software development practices
 
 ## Disparate / aging UIs
 
 ## Transformation of Technology stack toward digital services
+
+## Technology debt remediation 
 
 #### Engineering Ideas / Techniques 
 |  Name |  Summary | Details  | Use cases |  
@@ -220,6 +224,8 @@
 | new technologies / lack of skils  | | []() | **** **** **** |
 | resistance to change / mindset shift  | | []() | **** **** **** |
 | | | []() | **** **** **** |
+
+
 
 #### Operating Model 
 |  Name |  Summary | Details  | Use cases |  
