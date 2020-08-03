@@ -70,7 +70,7 @@
 
 </details>
 
-### 🌐 Measurement
+### 🔍 Measurement
 <details>
 <summary>View Snapshot</summary>
   
@@ -92,7 +92,7 @@
 
 </details>
 
-### 📦 Cultural  
+### 🧑‍🤝‍🧑 Cultural  
 <details>
 <summary>View Snapshot</summary>
   
@@ -110,7 +110,7 @@
 
 </details>
 
-### 📦 Strategic  
+### 💡 Strategic  
 <details>
 <summary>View Snapshot</summary>
   
