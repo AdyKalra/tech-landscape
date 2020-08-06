@@ -8,7 +8,12 @@
 
 
 ## Requirements management, design and development services across a portfolio of applications and supporting frameworks.
-    
+
+#### The Big Picture
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| | | []() | **** **** **** |
+
 #### Front-end Development Practice
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
