@@ -9,34 +9,40 @@
 <details>
 <summary>View Snapshot</summary>
 
-#### The Big Picture
+#### The Big Picture / Practices
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
-| High Level Design | Overview of Client -> CDN / DNS -> LB -> Http Cache -> APIG -> XL -> Feature Services -> Core Services -> Domains | [High Level Design](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/High%20Level%20Design.md) | stack comparisons across differnet levels of design  |
+| High Level Design | Overview of Client -> CDN / DNS -> LB -> Http Cache -> APIG -> XL -> Feature Services -> Core Services -> Domains | [High Level Design](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/High%20Level%20Design.md) | stack comparisons across differnet levels of design |
+| Stackshare tools | All the best open source and Software as a Service (SaaS) tools in one place | [Stackshare tools](https://stackshare.io/categories) | quick snapshot while making decisions |
 
 #### Front-end Development Practice
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
+| **Roadmap** | concepts - hoisting, event bubbling, scope prototype, shadow DOM. package managers - npm, yarn. CSS, BEM, Saas, Postcss.build tools - npm nuild, module bundlers webpack, linters and formatters, React Angualr Vue, modern css, css frameworks - reactstrap, mterialUI, Testing - Jest Cypress Mocha Chai. Progressive TypeScript, Server Side Rendering , GraphQL. ReactNative , Flutter , Static site generators  | [Front-end Roadmap](https://github.com/kamranahmedse/developer-roadmap) | **** **** **** |
 | | | []() | **** **** **** |
 
 #### Back-end Development Practice
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
+| **Roadmap** | C#, Java, Go, Python. Realational , NoSQL , Data Sharding , Replication , CAP. Authentication Oauth, token , JWT, SAML. apis - JSON, SOAP. Caching - DNS , serverside, clientside - Redis, MemCached. Design practices - GOF , DDD , TDD , SOLID, KISS , YAGNI, DRY. Architectural patterns - Microservices, SOA, Serverless. Messagebrokers , RabbitMQ , Kafka. Containers - Docker , GarphQL, Neo4j. | [Back-end Roadmap](https://github.com/kamranahmedse/developer-roadmap) | **** **** **** |
 | | | []() | **** **** **** |
 
 #### Testing Practice
 |  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
+|:-:    |:-:       |:-:       |:-:        | 
+| **Roadmap** | Test Plan template, testing startegies, testing types, TDD , automation - mobile , web , API , contrct testing Packt| [Testing Raodmap](https://github.com/anas-qa/Quality-Assurance-Road-Map) | **Testing Pyramid , Gap Analysis , Customer Insights , E2E regression suite** |
 | | | []() | **** **** **** |
 
 #### Mobile Development Practice
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
+|**Andoid Development** |Kotlin , Java | [android](https://roadmap.sh/android) | **** **** **** |
 | | | []() | **** **** **** |
 
 #### DevOps Practice
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
+| **Roadmap** | Pytho, Ruby , NodeJS. initd, systemd. OS - Linus , FreeBSD. Terminal - maniupaltion tools,, BASH, vim, network. Protocosl - http, ftp, ssh. Reverseproxy, Caching server, Forward Proxy , Load balancer, firewall. Webserver - Nginx, Service Mesh - Istio. Containers, Config mgmt, container orchestration, Infra provisioning. CI/CD tools, Infra monitoring - Prometheus , Nagios, Grafana. Appln Monitoring - NewRelic , AppDynamics. Log Mgmt - Elastic stalk, splunk sumo. Cloud - AWS , GCP, Azure. Cloud Design Patterns - Availability , Data Management.  | [Devops Roadmap](https://github.com/kamranahmedse/developer-roadmap) | **** **** **** |
 | | | []() | **** **** **** |
 
 #### Architecture Practice
@@ -48,18 +54,6 @@
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
 | | | []() | **** **** **** |
-
-
-
-#### Tools / Practices 
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-| Stackshare tools | All the best open source and Software as a Service (SaaS) tools in one place | [Stackshare tools](https://stackshare.io/categories) | quick snapshot while making decisions |
-| **Testing** Roadmap | Test Plan template, testing startegies, testing types, TDD , automation - mobile , web , API , contrct testing Packt| [Testing Raodmap](https://github.com/anas-qa/Quality-Assurance-Road-Map) | **Testing Pyramid , Gap Analysis , Customer Insights , E2E regression suite** |
-| **Front end Development** Roadmap| concepts - hoisting, event bubbling, scope prototype, shadow DOM. package managers - npm, yarn. CSS, BEM, Saas, Postcss.build tools - npm nuild, module bundlers webpack, linters and formatters, React Angualr Vue, modern css, css frameworks - reactstrap, mterialUI, Testing - Jest Cypress Mocha Chai. Progressive TypeScript, Server Side Rendering , GraphQL. ReactNative , Flutter , Static site generators  | [Front-end Roadmap](https://github.com/kamranahmedse/developer-roadmap) | **** **** **** |
-| **Back end Development** Roadmap| C#, Java, Go, Python. Realational , NoSQL , Data Sharding , Replication , CAP. Authentication Oauth, token , JWT, SAML. apis - JSON, SOAP. Caching - DNS , serverside, clientside - Redis, MemCached. Design practices - GOF , DDD , TDD , SOLID, KISS , YAGNI, DRY. Architectural patterns - Microservices, SOA, Serverless. Messagebrokers , RabbitMQ , Kafka. Containers - Docker , GarphQL, Neo4j.     | [Back-end Roadmap](https://github.com/kamranahmedse/developer-roadmap) | **** **** **** |
-| **DevOps** Roadmap| Pytho, Ruby , NodeJS. initd, systemd. OS - Linus , FreeBSD. Terminal - maniupaltion tools,, BASH, vim, network. Protocosl - http, ftp, ssh. Reverseproxy, Caching server, Forward Proxy , Load balancer, firewall. Webserver - Nginx, Service Mesh - Istio. Containers, Config mgmt, container orchestration, Infra provisioning. CI/CD tools, Infra monitoring - Prometheus , Nagios, Grafana. Appln Monitoring - NewRelic , AppDynamics. Log Mgmt - Elastic stalk, splunk sumo. Cloud - AWS , GCP, Azure. Cloud Design Patterns - Availability , Data Management.  | [Devops Roadmap](https://github.com/kamranahmedse/developer-roadmap) | **** **** **** |
-|**Andoid Development** |Kotlin , Java | [android](https://roadmap.sh/android) | **** **** **** |
 | | | []() | **** **** **** |
 
 
