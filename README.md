@@ -4,11 +4,10 @@
 * Each of the areas below presents a capability, discusses how to implement it, and how to overcome common obstacles and answer the "How to Transform"
 
 #### 🔧 Technical
+* Requirements management, design and development services across a portfolio of applications and supporting frameworks.
+* Feasibility studies, time and cost estimates, and the establishment and implementation of new or revised applications systems and platforms
 <details>
 <summary>View Snapshot</summary>
-
-
-## Requirements management, design and development services across a portfolio of applications and supporting frameworks.
 
 #### The Big Picture
 |  Name |  Summary | Details  | Use cases |  
@@ -30,8 +29,6 @@
 |:-:    |:-:       |:-:       |:-:        |  
 | | | []() | **** **** **** |
 
-## Support for multi-device access
-
 #### Mobile Development Practice
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
@@ -52,7 +49,7 @@
 |:-:    |:-:       |:-:       |:-:        |  
 | | | []() | **** **** **** |
 
-## Feasibility studies, time and cost estimates, and the establishment and implementation of new or revised applications systems and programs
+
 
 #### Tools / Practices 
 |  Name |  Summary | Details  | Use cases |  
