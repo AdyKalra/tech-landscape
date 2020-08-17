@@ -63,6 +63,22 @@
 <details>
 <summary>View Snapshot</summary>
 
+#### Engineering Challenges
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| Bug Bash | testing across verticals | []() | **** **** **** |
+| Going 100% on cloud and having a cloud first approach | | []() | **** **** **** |
+| Moving offshore teams and establishing greenfield teams here | | []() | **** **** **** |
+| transitioning from Devops to CPT  | | []() | **** **** **** |
+| transitioning from legacy PHP to a SPA built on React and NodeJS (tiger team) | []() | **** **** **** |
+| Going completely srverless | | []() | **** **** **** |
+
+#### Change Management
+|  Name |  Summary | Details  | Use cases |  
+|:-:    |:-:       |:-:       |:-:        |  
+| Champions  | lead mini transformations | []() | **** **** **** |
+| building a repository of design patterns , BFF / XL , Domain driven design  | | []() | **** **** **** |
+
 #### Customer Insights
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
@@ -88,23 +104,6 @@
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
 | | | []() | **** **** **** |
-
-#### Engineering Challenges
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-| Bug Bash | testing across verticals | []() | **** **** **** |
-| Going 100% on cloud and having a cloud first approach | | []() | **** **** **** |
-| Moving offshore teams and establishing greenfield teams here | | []() | **** **** **** |
-| transitioning from Devops to CPT  | | []() | **** **** **** |
-| transitioning from legacy PHP to a SPA built on React and NodeJS (tiger team) | []() | **** **** **** |
-| Going completely srverless | | []() | **** **** **** |
-
-
-#### Change Management
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-| Champions  | lead mini transformations | []() | **** **** **** |
-| building a repository of design patterns , BFF / XL , Domain driven design  | | []() | **** **** **** |
 
 </details>
 
