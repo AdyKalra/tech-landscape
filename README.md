@@ -9,11 +9,11 @@
 <details>
 <summary>View Snapshot</summary>
 
-#### The Big Picture / Practices
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-| High Level Design | Overview of Client -> CDN / DNS -> LB -> Http Cache -> APIG -> XL -> Feature Services -> Core Services -> Domains | [High Level Design](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/High%20Level%20Design.md) | stack comparisons across differnet levels of design |
-| Stackshare tools | All the best open source and Software as a Service (SaaS) tools in one place | [Stackshare tools](https://stackshare.io/categories) | quick snapshot while making decisions |
+|  Name |  Summary |   
+|:-:    |:-:       |
+| | **The Big Picture / Practices** |
+| [High Level Design](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/High%20Level%20Design.md)| Overview of Client -> CDN / DNS -> LB -> Http Cache -> APIG -> XL -> Feature Services -> Core Services -> Domains |  
+| [Stackshare tools](https://stackshare.io/categories) | All the best open source and Software as a Service (SaaS) tools in one place |
 
 #### Front-end Development Practice
 |  Name |  Summary | Details  | Use cases |  
