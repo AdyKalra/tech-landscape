@@ -18,12 +18,8 @@
 | [Front-end Roadmap](https://github.com/kamranahmedse/developer-roadmap) | concepts - hoisting, event bubbling, scope prototype, shadow DOM. package managers - npm, yarn. CSS, BEM, Saas, Postcss.build tools - npm nuild, module bundlers webpack, linters and formatters, React Angualr Vue, modern css, css frameworks - reactstrap, mterialUI, Testing - Jest Cypress Mocha Chai. Progressive TypeScript, Server Side Rendering , GraphQL. ReactNative , Flutter , Static site generators  | 
 | | **Back-end Development Practice** |
 | [Back-end Roadmap](https://github.com/kamranahmedse/developer-roadmap) | C#, Java, Go, Python. Realational , NoSQL , Data Sharding , Replication , CAP. Authentication Oauth, token , JWT, SAML. apis - JSON, SOAP. Caching - DNS , serverside, clientside - Redis, MemCached. Design practices - GOF , DDD , TDD , SOLID, KISS , YAGNI, DRY. Architectural patterns - Microservices, SOA, Serverless. Messagebrokers , RabbitMQ , Kafka. Containers - Docker , GarphQL, Neo4j. |
-
-#### Testing Practice
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        | 
-| **Roadmap** | Test Plan template, testing startegies, testing types, TDD , automation - mobile , web , API , contrct testing Packt| [Testing Raodmap](https://github.com/anas-qa/Quality-Assurance-Road-Map) | **Testing Pyramid , Gap Analysis , Customer Insights , E2E regression suite** |
-| | | []() | **** **** **** |
+| | **Testing Practice** |
+| [Testing Raodmap](https://github.com/anas-qa/Quality-Assurance-Road-Map) | Test Plan template, testing startegies, testing types, TDD , automation - mobile , web , API , contrct testing Packt, Testing Pyramid , Gap Analysis , Customer Insights , E2E regression suite | 
 
 #### Mobile Development Practice
 |  Name |  Summary | Details  | Use cases |  
