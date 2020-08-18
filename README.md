@@ -20,12 +20,8 @@
 | [Back-end Roadmap](https://github.com/kamranahmedse/developer-roadmap) | C#, Java, Go, Python. Realational , NoSQL , Data Sharding , Replication , CAP. Authentication Oauth, token , JWT, SAML. apis - JSON, SOAP. Caching - DNS , serverside, clientside - Redis, MemCached. Design practices - GOF , DDD , TDD , SOLID, KISS , YAGNI, DRY. Architectural patterns - Microservices, SOA, Serverless. Messagebrokers , RabbitMQ , Kafka. Containers - Docker , GarphQL, Neo4j. |
 | | **Testing Practice** |
 | [Testing Raodmap](https://github.com/anas-qa/Quality-Assurance-Road-Map) | Test Plan template, testing startegies, testing types, TDD , automation - mobile , web , API , contrct testing Packt, Testing Pyramid , Gap Analysis , Customer Insights , E2E regression suite | 
-
-#### Mobile Development Practice
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-|**Andoid Development** |Kotlin , Java | [android](https://roadmap.sh/android) | **** **** **** |
-| | | []() | **** **** **** |
+| | **Mobile Development Practice** |
+|[android roadmap](https://roadmap.sh/android) |Kotlin , Java |
 
 #### DevOps Practice
 |  Name |  Summary | Details  | Use cases |  
