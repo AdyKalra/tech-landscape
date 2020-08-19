@@ -24,12 +24,8 @@
 |[android roadmap](https://roadmap.sh/android) |Kotlin , Java |
 | | **DevOps Practice** |
 | [Devops Roadmap](https://github.com/kamranahmedse/developer-roadmap) | Pytho, Ruby , NodeJS. initd, systemd. OS - Linus , FreeBSD. Terminal - maniupaltion tools,, BASH, vim, network. Protocosl - http, ftp, ssh. Reverseproxy, Caching server, Forward Proxy , Load balancer, firewall. Webserver - Nginx, Service Mesh - Istio. Containers, Config mgmt, container orchestration, Infra provisioning. CI/CD tools, Infra monitoring - Prometheus , Nagios, Grafana. Appln Monitoring - NewRelic , AppDynamics. Log Mgmt - Elastic stalk, splunk sumo. Cloud - AWS , GCP, Azure. Cloud Design Patterns - Availability , Data Management.  |  
-| | | []() | **** **** **** |
-
-#### Architecture Practice
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-| | | []() | **** **** **** |
+| | **Architecture Practice** |
+| []() | | 
 
 #### Operations
 |  Name |  Summary | Details  | Use cases |  
