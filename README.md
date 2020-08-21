@@ -1,11 +1,11 @@
-### Tech Landscape
-#### 📚 Capability catalog 
-* Explore technical, process, measurement, and cultural capabilities which drive higher software delivery and organizational performance.
-* Each of the areas below presents a capability, discusses how to implement it, and how to overcome common obstacles and answer the "How to Transform"
+## Tech Landscape
+* ### 📚 Capability catalog 
+    * Explore technical, process, measurement, and cultural capabilities which drive higher software delivery and organizational performance.
+    * Each of the areas below presents a capability, discusses how to implement it, and how to overcome common obstacles and answer the "How to Transform"
 
-#### 🔧 Technical
-* Requirements management, design and development services across a portfolio of applications and supporting frameworks.
-* Feasibility studies, time and cost estimates, and the establishment and implementation of new or revised applications systems and platforms
+* #### 🔧 Technical
+    * Requirements management, design and development services across a portfolio of applications and supporting frameworks.
+    * Feasibility studies, time and cost estimates, and the establishment and implementation of new or revised applications systems and platforms
 <details>
 <summary>View Snapshot</summary>
 
