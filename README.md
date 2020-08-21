@@ -2,11 +2,23 @@
 * ### 📚 Capability catalog 
     * Explore technical, process, measurement, and cultural capabilities which drive higher software delivery and organizational performance.
     * Each of the areas below presents a capability, discusses how to implement it, and how to overcome common obstacles and answer the "How to Transform"
-* Technical 
+* **Technical**
     * Requirements management, design and development services across a portfolio of applications and supporting frameworks.
     * Feasibility studies, time and cost estimates, and the establishment and implementation of new or revised applications systems and platforms
+* **Process**
+   * High quality self-service channel for our users
+* **Measurement**
+    * Forecasting and defining  software and hardware requirements to cater to business needs 
+* **Cultural**
+    * Assign personnel to various projects and directs activities
+* **Strategic**
+    * Strategic direction of product, services and technology
+    * Product optimisation and implementation
+    * Modernisation and uplift of our software development practices
+    * Disparate / aging UIs
+    * Transformation of Technology stack toward digital services
+    * Technology debt remediation 
 
-    
 <details>
 <summary>🔧 Technical</summary>
 
@@ -79,10 +91,8 @@
 
 </details>
 
-#### 🔍 Measurement
-* Forecasting and defining  software and hardware requirements to cater to business needs 
 <details>
-<summary>View Snapshot</summary> 
+<summary>🔍 Measurement</summary> 
     
 #### Cloud Tools / Practices
 |  Name |  Summary | Details  | Use cases |  
@@ -122,11 +132,8 @@
 
 </details>
 
-#### 🤝‍ Cultural  
 <details>
-<summary>View Snapshot</summary>
-
-## Assign personnel to various projects and directs activities
+<summary>🤝‍ Cultural  </summary>
 
 #### People / Recruitment
 |  Name |  Summary | Details  | Use cases |  
@@ -141,8 +148,6 @@
 |:-:    |:-:       |:-:       |:-:        |  
 | | | []() | **** **** **** |
 
-## High quality self-service channel for our users 
-
 #### Westrum Organisation Culture
 |  Name |  Summary | Details  | Use cases |  
 |:-:    |:-:       |:-:       |:-:        |  
@@ -153,24 +158,10 @@
 |:-:    |:-:       |:-:       |:-:        |  
 | | | []() | **** **** **** |
 
-
 </details>
 
-#### 💡 Strategic 
 <details>
-<summary>View Snapshot</summary>
-
-## Strategic direction of product, services and technology
-
-### Product optimisation and implementation
-
-## Modernisation and uplift of our software development practices
-
-## Disparate / aging UIs
-
-## Transformation of Technology stack toward digital services
-
-## Technology debt remediation 
+<summary> 💡 Strategic </summary>
 
 #### Engineering Ideas / Techniques 
 |  Name |  Summary | Details  | Use cases |  
@@ -191,8 +182,6 @@
 | new technologies / lack of skils  | | []() | **** **** **** |
 | resistance to change / mindset shift  | | []() | **** **** **** |
 | | | []() | **** **** **** |
-
-
 
 #### Operating Model 
 |  Name |  Summary | Details  | Use cases |  
