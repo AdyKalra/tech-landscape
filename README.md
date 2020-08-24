@@ -5,12 +5,17 @@
 * **Technical**
     * Requirements management, design and development services across a portfolio of applications and supporting frameworks.
     * Feasibility studies, time and cost estimates, and the establishment and implementation of new or revised applications systems and platforms
+    * Going 100% on cloud and having a cloud first approach
 * **Process**
    * High quality self-service channel for our users
+   * Streamlining Change Approval
+   * Visibility of Work in Value Stream
+   * Working in smaller batches / Process limits 
 * **Measurement**
     * Forecasting and defining  software and hardware requirements to cater to business needs 
 * **Cultural**
     * Assign personnel to various projects and directs activities
+    * Moving offshore teams and establishing greenfield teams here
 * **Strategic**
     * Strategic direction of product, services and technology
     * Product optimisation and implementation
@@ -47,47 +52,22 @@
 <details>
 <summary>📃 Process</summary>
 
-#### Engineering Challenges
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-| Bug Bash | testing across verticals | []() | **** **** **** |
-| Going 100% on cloud and having a cloud first approach | | []() | **** **** **** |
-| Moving offshore teams and establishing greenfield teams here | | []() | **** **** **** |
-| transitioning from Devops to CPT  | | []() | **** **** **** |
-| transitioning from legacy PHP to a SPA built on React and NodeJS (tiger team) | []() | **** **** **** |
-| Going completely srverless | | []() | **** **** **** |
-
-#### Change Management
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-| Champions  | lead mini transformations | []() | **** **** **** |
-| building a repository of design patterns , BFF / XL , Domain driven design  | | []() | **** **** **** |
-
-#### Customer Insights
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-| working backwards from customer insights | VOC , GA |  | | 
-| | | []() | **** **** **** |
-
-#### Teams Experimentation
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-| | | []() | **** **** **** |
-
-#### Streamlining Change Approval
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-| | | []() | **** **** **** |
-
-#### Visibility of Work in Value Stream
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-| | | []() | **** **** **** |
-
-#### Working in smaller batches / Process limits 
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-| | | []() | **** **** **** |
+|  Name |  Summary |  
+|:-:    |:-:       |
+| | **Engineering Challenges** |
+| Bug Bash | testing across verticals |
+| DevOps culture| transitioning from Devops to CPT  | 
+| Web Modernisation| transitioning from legacy PHP to a SPA built on React and NodeJS (tiger team) | 
+| Serverless | Going completely serverless |
+| | **Change Management** |
+| Champions  | lead mini transformations |
+| Design Patterns | building a repository of design patterns , BFF / XL , Domain driven design  | 
+| | **Customer Insights** |
+| working backwards from customer insights | VOC , GA |  
+| | **Mission Team Experimentation** |
+| | | 
+| | **Visibility of Work in Value Stream** |
+| | | 
 
 </details>
 
