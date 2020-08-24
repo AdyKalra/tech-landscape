@@ -64,7 +64,7 @@
 | Champions  | lead mini transformations |
 | Design Patterns | building a repository of design patterns , BFF / XL , Domain driven design  | 
 | | **Customer Insights** |
-| working backwards from customer insights | VOC , GA |  
+|  VOC , GA | working backwards from customer insights |  
 | | **Mission Team Experimentation** |
 | | | 
 | | **Visibility of Work in Value Stream** |
@@ -77,14 +77,13 @@
 <details>
 <summary>🔍 Measurement</summary> 
     
-#### Cloud Tools / Practices
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-|serverless cdk patterns|all of the official AWS Serverless architecture patterns built with CDK for developers to use.|[cdk patterns](https://github.com/cdk-patterns/serverless)| SensibleDeafults for Patterns used |
-| awesome-cloudformation | A curated list of resources and projects for working with AWS CloudFormation. https://aws.amazon.com/cloudformation/ | [cloudformation](https://github.com/aws-cloudformation/awesome-cloudformation) | cloud formation catalouge |
-| Design Patterns | collection of solutions and design ideas for using AWS cloud technology to solve common systems design problems | [Design Patterns](http://en.clouddesignpattern.org/index.php/Main_Page) | sensible defaults Design Patterns / catalouge |
-| this-is-my-architecture | Innovative cloud architectures from AWS partners and customers | [this-is-my-architecture](https://aws.amazon.com/this-is-my-architecture/?sc_channel=EL&sc_campaign=Explainer_2017_vid&sc_medium=YouTube&sc_content=video942&sc_detail=EXPLAINER&sc_country=US&tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc) | Clarity of bigger picture within Org |
-| | | []() | **** **** **** |
+|  Name |  Summary | 
+|:-:    |:-:       |
+| | **Cloud Tools / Practices** |
+|[cdk patterns](https://github.com/cdk-patterns/serverless) | SensibleDeafults for Patterns used - all of the official AWS Serverless architecture patterns built with CDK for developers to use |
+| [cloudformation](https://github.com/aws-cloudformation/awesome-cloudformation) | cloud formation catalouge - A curated list of resources and projects for working with AWS CloudFormation. https://aws.amazon.com/cloudformation/ |
+| [Design Patterns](http://en.clouddesignpattern.org/index.php/Main_Page) | sensible defaults Design Patterns / catalouge - collection of solutions and design ideas for using AWS cloud technology to solve common systems design problems |
+| [this-is-my-architecture](https://aws.amazon.com/this-is-my-architecture/?sc_channel=EL&sc_campaign=Explainer_2017_vid&sc_medium=YouTube&sc_content=video942&sc_detail=EXPLAINER&sc_country=US&tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc) | Clarity of bigger picture within Org - Innovative cloud architectures from AWS partners and customers |
 
 #### Cloud Ideas / Techniques 
 |  Name |  Summary | Details  | Use cases |  
