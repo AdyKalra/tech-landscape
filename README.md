@@ -46,8 +46,9 @@
 | []() | | 
 | | **Ops Practice** |
 | []() | | 
-
 </details>
+
+<!--- END OF TOPIC--->
 
 <details>
 <summary>📃 Process</summary>
@@ -70,6 +71,8 @@
 | | | 
 
 </details>
+
+<!--- END OF TOPIC--->
 
 <details>
 <summary>🔍 Measurement</summary> 
