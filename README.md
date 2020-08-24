@@ -18,6 +18,8 @@
 * **Cultural**
     * Assign personnel to various projects and directs activities
     * Moving offshore teams and establishing greenfield teams here
+    * Reviews and evaluate work
+    * Learning Culture
 * **Strategic**
     * Strategic direction of product, services and technology
     * Product optimisation and implementation
@@ -93,36 +95,28 @@
 | | **Engineering efficiency** |
 | STAX / Cloud Confirmity | cloud compliance and measuring where we are , cost  | 
 | Well architected framework | Cloud maturity and assesment | 
+| [patterns in teams and ICs](https://www.pluralsight.com/product/flow/20-patterns)| 20 patterns to watch for in your engineering team - teams and IC patterns tools like flow and decision making |
 
 </details>
+
+<!--- END OF TOPIC--->
 
 <details>
 <summary>🤝‍ Cultural  </summary>
 
-#### People / Recruitment
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-| 20 patterns to watch for in your engineering team | teamd and IC patterns | [patterns in teams and ICs](https://www.pluralsight.com/product/flow/20-patterns) | tools like flow and decision making |
-| | | []() | **** **** **** |
-
-## Reviews and evaluate work
-
-#### Job Satisfaction
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-| | | []() | **** **** **** |
-
-#### Westrum Organisation Culture
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-| | | []() | **** **** **** |
-
-#### Learning Culture
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-| | | []() | **** **** **** |
+|  Name |  Summary |   
+|:-:    |:-:       |
+| | **Recruitment** |
+| | |
+| | **Reviews and evaluate work** |  
+| [patterns in teams and ICs](https://www.pluralsight.com/product/flow/20-patterns)| 20 patterns to watch for in your engineering team - teams and IC patterns tools like flow and decision making |
+| Westrum Organisation Culture ||
+| | **Learning Culture** |
+| | |
 
 </details>
+
+<!--- END OF TOPIC--->
 
 <details>
 <summary> 💡 Strategic </summary>
