@@ -13,6 +13,8 @@
    * Working in smaller batches / Process limits 
 * **Measurement**
     * Forecasting and defining  software and hardware requirements to cater to business needs 
+    * Monitoring and Proactive failiure notification
+    * Engineering efficiency
 * **Cultural**
     * Assign personnel to various projects and directs activities
     * Moving offshore teams and establishing greenfield teams here
@@ -84,33 +86,13 @@
 | [cloudformation](https://github.com/aws-cloudformation/awesome-cloudformation) | cloud formation catalouge - A curated list of resources and projects for working with AWS CloudFormation. https://aws.amazon.com/cloudformation/ |
 | [Design Patterns](http://en.clouddesignpattern.org/index.php/Main_Page) | sensible defaults Design Patterns / catalouge - collection of solutions and design ideas for using AWS cloud technology to solve common systems design problems |
 | [this-is-my-architecture](https://aws.amazon.com/this-is-my-architecture/?sc_channel=EL&sc_campaign=Explainer_2017_vid&sc_medium=YouTube&sc_content=video942&sc_detail=EXPLAINER&sc_country=US&tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc) | Clarity of bigger picture within Org - Innovative cloud architectures from AWS partners and customers |
-
-#### Cloud Ideas / Techniques 
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-| STAX / Cloud Confirmity | cloud compliance and measuring where we are , cost  | []() | **** **** **** |
-| Well architected framework | Cloud maturity and assesment | []() | **** **** **** |
-| | | []() | **** **** **** |
-
-#### Monitoring
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-| | | []() | **** **** **** |
-
-#### Proactive failiure notification
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-| | | []() | **** **** **** |
-
-#### Visual Management Capabilities
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-| | | []() | **** **** **** |
-
-#### Engineering efficiency 
-|  Name |  Summary | Details  | Use cases |  
-|:-:    |:-:       |:-:       |:-:        |  
-| | | []() | **** **** **** |
+| | **Monitoring** |
+| | |
+| | **Proactive failiure notification** |
+| | |
+| | **Engineering efficiency** |
+| STAX / Cloud Confirmity | cloud compliance and measuring where we are , cost  | 
+| Well architected framework | Cloud maturity and assesment | 
 
 </details>
 
