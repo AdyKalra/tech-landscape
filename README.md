@@ -53,7 +53,14 @@
 |[API Design Cheat Sheet](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/API%20Design%20Cheat%20Sheet.md)| Best practices / Principles for API Design|
 |[Backend for Frontend design pattern](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/BFF.md)|f developing niche backends for each user experience, While an API Gateway is a single point of entry into the system for all clients, a BFF is only responsible for a single type of client|
 |[Choreography vs Orchestration in the land of serverless](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/Choreography%20vs%20Orchestration%20-%20serverless.md)| (the ‘orchestrator’) that controls the interaction between services. It dictates the control flow of the business logic and is responsible for making sure that everything happens on cue. This follows the request-response paradigm. In choreography, every service works independently. There are no hard dependencies between them, and they are loosely coupled only through shared events. Each service listens for events that it’s interested in and does its own thing. This follows the event-driven paradigm.|
-|[]()||
+|[DLQ](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/DLQ.md)|handling message failure.Message that is sent to a queue that does not exist.
+Queue length limit exceeded.Message length limit exceeded.Message is rejected by another queue exchange.|
+| [Design Patterns - Frontend](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/Design%20Patterns%20-%20Frontend.md) | Design Patterns - Frontend | 
+| [Function as a Service](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/Function%20as%20a%20Service.md) |Microsoft Azure Functions, Lambdas, Google Cloud Functions, etc | 
+| [Kafka vs Kinesis](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/Kafka%20vs%20Kinesis.md) | Kafka vs Kinesis| 
+| [Micro Frontends](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/Micro%20Frontends.md) |extending the principles of Microservices to frontend development.Enable rapid, frequent, and reliable delivery of large, complex applications by separating backend services into smaller (micro) services organized around the business logic. | 
+| [Microservice Architecture](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/Microservice%20Architecture.md) |Microservice Architecture is an architectural style that structures an application as a collection of services that are.Highly maintainable and testable.Loosely coupled.Independently deployable.Organized around business capabilities. | 
+| []() | | 
 | | **Ops Practice** |
 | []() | | 
 </details>
