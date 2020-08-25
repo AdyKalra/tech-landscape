@@ -51,8 +51,8 @@
 |[Serverless Microservice Patterns for AWS](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/Design%20Patterns%20-%20Serverless.md)|Serverless Ecosystem, best practices , patterns|
 |[Domain-Oriented Microservice Architecture](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/Domain-Oriented%20Microservice%20Architecture.md)| DOMA core principles and terminology, the Why, Uber's implementation|
 |[API Design Cheat Sheet](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/API%20Design%20Cheat%20Sheet.md)| Best practices / Principles for API Design|
-|[]()||
-|[]()||
+|[Backend for Frontend design pattern](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/BFF.md)|f developing niche backends for each user experience, While an API Gateway is a single point of entry into the system for all clients, a BFF is only responsible for a single type of client|
+|[Choreography vs Orchestration in the land of serverless](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/Choreography%20vs%20Orchestration%20-%20serverless.md)| (the ‘orchestrator’) that controls the interaction between services. It dictates the control flow of the business logic and is responsible for making sure that everything happens on cue. This follows the request-response paradigm. In choreography, every service works independently. There are no hard dependencies between them, and they are loosely coupled only through shared events. Each service listens for events that it’s interested in and does its own thing. This follows the event-driven paradigm.|
 |[]()||
 | | **Ops Practice** |
 | []() | | 
