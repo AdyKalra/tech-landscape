@@ -27,6 +27,8 @@
     * Disparate / aging UIs
     * Transformation of Technology stack toward digital services
     * Technology debt remediation 
+ 
+**Legend:** ⭐⭐⭐ -  Significant ⭐⭐ - Insightful ⭐ - Good to know
 
 <details>
 <summary>🔧 Technical</summary>
@@ -34,8 +36,8 @@
 |  Name |  Summary |   
 |:-:    |:-:       |
 | | **The Big Picture / Practices** |
-| [High Level Design](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/High%20Level%20Design.md)| Overview of Client -> CDN / DNS -> LB -> Http Cache -> APIG -> XL -> Feature Services -> Core Services -> Domains |  
-| [Stackshare tools](https://stackshare.io/categories) | All the best open source and Software as a Service (SaaS) tools in one place |
+| ⭐⭐⭐[High Level Design](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/High%20Level%20Design.md)| Overview of Client -> CDN / DNS -> LB -> Http Cache -> APIG -> XL -> Feature Services -> Core Services -> Domains |  
+| ⭐⭐[Stackshare tools](https://stackshare.io/categories) | All the best open source and Software as a Service (SaaS) tools in one place |
 | | **Front-end Development Practice** |
 | [Front-end Roadmap](https://github.com/kamranahmedse/developer-roadmap) | concepts - hoisting, event bubbling, scope prototype, shadow DOM. package managers - npm, yarn. CSS, BEM, Saas, Postcss.build tools - npm nuild, module bundlers webpack, linters and formatters, React Angualr Vue, modern css, css frameworks - reactstrap, mterialUI, Testing - Jest Cypress Mocha Chai. Progressive TypeScript, Server Side Rendering , GraphQL. ReactNative , Flutter , Static site generators  | 
 | | **Back-end Development Practice** |
