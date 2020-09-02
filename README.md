@@ -98,21 +98,21 @@
 <details>
 <summary>🔍 Measurement</summary> 
     
-|  Name |  Summary | 
-|:-:    |:-:       |
+|  Name |  Summary |   Ratings |
+|:-:    |:-:       |:-:        | 
 | | **Cloud Tools / Practices** |
-|[cdk patterns](https://github.com/cdk-patterns/serverless) | SensibleDeafults for Patterns used - all of the official AWS Serverless architecture patterns built with CDK for developers to use |
-| [cloudformation](https://github.com/aws-cloudformation/awesome-cloudformation) | cloud formation catalouge - A curated list of resources and projects for working with AWS CloudFormation. https://aws.amazon.com/cloudformation/ |
-| [Design Patterns](http://en.clouddesignpattern.org/index.php/Main_Page) | sensible defaults Design Patterns / catalouge - collection of solutions and design ideas for using AWS cloud technology to solve common systems design problems |
-| [this-is-my-architecture](https://aws.amazon.com/this-is-my-architecture/?sc_channel=EL&sc_campaign=Explainer_2017_vid&sc_medium=YouTube&sc_content=video942&sc_detail=EXPLAINER&sc_country=US&tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc) | Clarity of bigger picture within Org - Innovative cloud architectures from AWS partners and customers |
+|[cdk patterns](https://github.com/cdk-patterns/serverless) | SensibleDeafults for Patterns used - all of the official AWS Serverless architecture patterns built with CDK for developers to use |⭐⭐|  
+| [cloudformation](https://github.com/aws-cloudformation/awesome-cloudformation) | cloud formation catalouge - A curated list of resources and projects for working with AWS CloudFormation. https://aws.amazon.com/cloudformation/ |⭐⭐⭐|  
+| [Design Patterns](http://en.clouddesignpattern.org/index.php/Main_Page) | sensible defaults Design Patterns / catalouge - collection of solutions and design ideas for using AWS cloud technology to solve common systems design problems |⭐⭐|  
+| [this-is-my-architecture](https://aws.amazon.com/this-is-my-architecture/?sc_channel=EL&sc_campaign=Explainer_2017_vid&sc_medium=YouTube&sc_content=video942&sc_detail=EXPLAINER&sc_country=US&tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc) | Clarity of bigger picture within Org - Innovative cloud architectures from AWS partners and customers |⭐⭐|  
 | | **Monitoring** |
 | | |
 | | **Proactive failiure notification** |
 | | |
 | | **Engineering efficiency** |
-| STAX / Cloud Confirmity | cloud compliance and measuring where we are , cost  | 
+| STAX / Cloud Confirmity | cloud compliance and measuring where we are , cost  | ⭐⭐|  
 | Well architected framework | Cloud maturity and assesment | 
-| [patterns in teams and ICs](https://www.pluralsight.com/product/flow/20-patterns)| 20 patterns to watch for in your engineering team - teams and IC patterns tools like flow and decision making |
+| [patterns in teams and ICs](https://www.pluralsight.com/product/flow/20-patterns)| 20 patterns to watch for in your engineering team - teams and IC patterns tools like flow and decision making | ⭐⭐|  
 
 </details>
 
@@ -126,8 +126,8 @@
 | | **Recruitment** |
 | | |
 | | **Reviews and evaluate work** |  
-| [patterns in teams and ICs](https://www.pluralsight.com/product/flow/20-patterns)| 20 patterns to watch for in your engineering team - teams and IC patterns tools like flow and decision making |
-| Westrum Organisation Culture ||
+| [patterns in teams and ICs](https://www.pluralsight.com/product/flow/20-patterns)| 20 patterns to watch for in your engineering team - teams and IC patterns tools like flow and decision making |⭐⭐|  
+| Westrum Organisation Culture ||⭐⭐⭐|  
 | | **Learning Culture** |
 | | |
 
