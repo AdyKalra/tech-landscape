@@ -121,10 +121,9 @@
 <details>
 <summary>🤝‍ Cultural  </summary>
 
-|  Name |  Summary |   
-|:-:    |:-:       |
-| | **Recruitment** |
-| | |
+|  Name |  Summary |   Ratings |
+|:-:    |:-:       |:-:        |   
+| | **Recruitment** |   |
 | | **Reviews and evaluate work** |  
 | [patterns in teams and ICs](https://www.pluralsight.com/product/flow/20-patterns)| 20 patterns to watch for in your engineering team - teams and IC patterns tools like flow and decision making |⭐⭐|  
 | Westrum Organisation Culture ||⭐⭐⭐|  
