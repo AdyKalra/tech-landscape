@@ -78,14 +78,14 @@
 |:-:    |:-:       |:-:        |  
 | | **Engineering Challenges** |
 | Bug Bash | testing across verticals | ⭐⭐| 
-| DevOps culture| transitioning from Devops to CPT  | 
-| Web Modernisation| transitioning from legacy PHP to a SPA built on React and NodeJS (tiger team) | 
-| Serverless | Going completely serverless |
+| DevOps culture| transitioning from Devops to CPT  |⭐⭐⭐|  
+| Web Modernisation| transitioning from legacy PHP to a SPA built on React and NodeJS (tiger team) |⭐⭐⭐|  
+| Serverless | Going completely serverless | ⭐⭐⭐| 
 | | **Change Management** |
-| Champions  | lead mini transformations |
-| Design Patterns | building a repository of design patterns , BFF / XL , Domain driven design  | 
+| Champions  | lead mini transformations |⭐| 
+| Design Patterns | building a repository of design patterns , BFF / XL , Domain driven design  | ⭐⭐| 
 | | **Customer Insights** |
-|  VOC , GA | working backwards from customer insights |  
+|  VOC , GA | working backwards from customer insights |⭐⭐|   
 | | **Mission Team Experimentation** |
 | | | 
 | | **Visibility of Work in Value Stream** |
