@@ -28,7 +28,7 @@
     * Transformation of Technology stack toward digital services
     * Technology debt remediation 
  
-**Legend:** ⭐⭐⭐ -  Significant ⭐⭐ - Insightful ⭐ - Good to know
+**Legend:** ⭐⭐⭐-Significant ⭐⭐-Insightful ⭐-Good to know
 
 <details>
 <summary>🔧 Technical</summary>
@@ -74,10 +74,10 @@
 <details>
 <summary>📃 Process</summary>
 
-|  Name |  Summary |  
-|:-:    |:-:       |
+|  Name |  Summary |   Ratings |
+|:-:    |:-:       |:-:        |  
 | | **Engineering Challenges** |
-| Bug Bash | testing across verticals |
+| Bug Bash | testing across verticals | ⭐⭐| 
 | DevOps culture| transitioning from Devops to CPT  | 
 | Web Modernisation| transitioning from legacy PHP to a SPA built on React and NodeJS (tiger team) | 
 | Serverless | Going completely serverless |
