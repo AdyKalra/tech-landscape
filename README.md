@@ -137,15 +137,15 @@
 <details>
 <summary> 💡 Strategic </summary>
 
-|  Name |  Summary | 
-|:-:    |:-:       |  
+|  Name |  Summary |Ratings |
+|:-:    |:-:       |:-:        | 
 | | **Engineering Ideas / Techniques ** |
-| [engineering roadmaps](https://roadmap.sh/) | all Reference Roadmaps - roadmaps on web |
-| [Google Engineering practices](https://github.com/google/eng-practices) | Sensible Deafults template for practices - Google has many generalized engineering practices that cover all languages and all projects. These documents represent the collective experience of various best practices that we have developed over time. |
-| Four key metrics | MMTR , Lead Time , Deployment frequency and Change fail rate - Measure engineering team health |
-| Gitprime for data driven mindset | Coding Days , Impact , Efficiency , Commits per day , Repos - Data driven engineering metrics |
-| Technology Radar | Internal tooling maturity | 
-| Engineering maturity assessment | 12 factor app - measure engineering maturity every quarter |
+| [engineering roadmaps](https://roadmap.sh/) | all Reference Roadmaps - roadmaps on web | ⭐⭐⭐|  
+| [Google Engineering practices](https://github.com/google/eng-practices) | Sensible Deafults template for practices - Google has many generalized engineering practices that cover all languages and all projects. These documents represent the collective experience of various best practices that we have developed over time. |⭐⭐|  
+| Four key metrics | MMTR , Lead Time , Deployment frequency and Change fail rate - Measure engineering team health | ⭐⭐⭐|  
+| Gitprime for data driven mindset | Coding Days , Impact , Efficiency , Commits per day , Repos - Data driven engineering metrics | ⭐⭐⭐|  
+| Technology Radar | Internal tooling maturity | ⭐⭐⭐|  
+| Engineering maturity assessment | 12 factor app - measure engineering maturity every quarter |⭐⭐⭐|  
 | | **Transformation Challenges** |
 | Lack of expertise and exposure |  | 
 | pushback from people and existing leaders | |
