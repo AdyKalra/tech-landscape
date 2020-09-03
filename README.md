@@ -46,8 +46,11 @@
 | [Testing Raodmap](https://github.com/anas-qa/Quality-Assurance-Road-Map) | Test Plan template, testing startegies, testing types, TDD , automation - mobile , web , API , contrct testing Packt, Testing Pyramid , Gap Analysis , Customer Insights , E2E regression suite |⭐⭐⭐|
 | | **Mobile Development Practice** |
 |[android roadmap](https://roadmap.sh/android) |Kotlin , Java |⭐⭐|
-| | **DevOps Practice** |
+| | **DevOps / Cloud Platform Practice** |
 | [Devops Roadmap](https://github.com/kamranahmedse/developer-roadmap) | Pytho, Ruby , NodeJS. initd, systemd. OS - Linus , FreeBSD. Terminal - maniupaltion tools,, BASH, vim, network. Protocosl - http, ftp, ssh. Reverseproxy, Caching server, Forward Proxy , Load balancer, firewall. Webserver - Nginx, Service Mesh - Istio. Containers, Config mgmt, container orchestration, Infra provisioning. CI/CD tools, Infra monitoring - Prometheus , Nagios, Grafana. Appln Monitoring - NewRelic , AppDynamics. Log Mgmt - Elastic stalk, splunk sumo. Cloud - AWS , GCP, Azure. Cloud Design Patterns - Availability , Data Management.  |⭐⭐⭐|  
+|[API Gateway](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/AWS%20API%20Gateway.md)| reating, publishing, maintaining, monitoring, and securing REST, HTTP, and WebSocket APIs at any scale. server that is the single entry point into the system. ... The API Gateway is responsible for request routing, composition, and protocol translation. All requests from clients first go through the API Gateway. It then routes requests to the appropriate microservice / API Gateway Act as a Load Balancer|⭐|
+|[]()||⭐⭐⭐|
+|[]()||⭐⭐⭐|
 | | **Architecture Practice** |
 | [Architecture decision records](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/ADRs.md) | document how and why a decision was reached within a codebase.|⭐⭐|
 |[Serverless Microservice Patterns for AWS](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/Design%20Patterns%20-%20Serverless.md)|Serverless Ecosystem, best practices , patterns|⭐⭐⭐|
