@@ -106,7 +106,7 @@
 <!--- END OF TOPIC--->
 
 <details>
-<summary>📃 Process</summary>
+<summary>📃 Process - Engineering Challenges | Change Management | Customer Insights | Visibility of Work in Value Stream | Mission Team Experimentation </summary>
 
 |  Name |  Summary |   Ratings |
 |:-:    |:-:       |:-:        |  
@@ -130,11 +130,11 @@
 <!--- END OF TOPIC--->
 
 <details>
-<summary>🔍 Measurement</summary> 
+<summary>🔍 Measurement - Cloud Tools for Practices / Sensibe Deafults | Monitoring | Engineering efficiency </summary> 
     
 |  Name |  Summary |   Ratings |
 |:-:    |:-:       |:-:        | 
-| | **Cloud Tools / Practices** |
+| | **Cloud Tools for Practices / Sensibe Deafults** |
 |[cdk patterns](https://github.com/cdk-patterns/serverless) | SensibleDeafults for Patterns used - all of the official AWS Serverless architecture patterns built with CDK for developers to use |⭐⭐|  
 | [cloudformation](https://github.com/aws-cloudformation/awesome-cloudformation) | cloud formation catalouge - A curated list of resources and projects for working with AWS CloudFormation. https://aws.amazon.com/cloudformation/ |⭐⭐⭐|  
 | [Design Patterns](http://en.clouddesignpattern.org/index.php/Main_Page) | sensible defaults Design Patterns / catalouge - collection of solutions and design ideas for using AWS cloud technology to solve common systems design problems |⭐⭐|  
@@ -153,7 +153,7 @@
 <!--- END OF TOPIC--->
 
 <details>
-<summary>🤝‍ Cultural  </summary>
+<summary>🤝‍ Cultural - Recruitment | Learning  </summary>
 
 |  Name |  Summary |   Ratings |
 |:-:    |:-:       |:-:        |   
@@ -169,11 +169,11 @@
 <!--- END OF TOPIC--->
 
 <details>
-<summary> 💡 Strategic </summary>
+<summary> 💡 Strategic - Engineering Techniques | Operating Model </summary>
 
 |  Name |  Summary |Ratings |
 |:-:    |:-:       |:-:        | 
-| | **Engineering Ideas / Techniques ** |
+| | **Engineering Techniques ** |
 | [engineering roadmaps](https://roadmap.sh/) | all Reference Roadmaps - roadmaps on web | ⭐⭐⭐|  
 | [Google Engineering practices](https://github.com/google/eng-practices) | Sensible Deafults template for practices - Google has many generalized engineering practices that cover all languages and all projects. These documents represent the collective experience of various best practices that we have developed over time. |⭐⭐|  
 | Four key metrics | MMTR , Lead Time , Deployment frequency and Change fail rate - Measure engineering team health | ⭐⭐⭐|  
