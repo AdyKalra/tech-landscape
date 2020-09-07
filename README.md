@@ -60,7 +60,7 @@
 |[Kinesis](https://github.com/AdyKalra/technolgytrends/blob/master/Development%20trends/Kinesis.md)|Kinesis is a managed, scalable, cloud-based service that allows real-time processing of streaming large amount of data per second. ... It is used to capture, store, and process data from large, distributed streams such as event logs and social media feeds.|⭐⭐⭐|
 |[Memcached](https://github.com/AdyKalra/technolgytrends/blob/master/Development%20trends/Memcached.md)| general-purpose distributed memory-caching system. It is often used to speed up dynamic database-driven websites by caching data and objects in RAM to reduce the number of times an external data source must be read|⭐⭐⭐|
 |[Opinionated and automated code formatting using pre commit hooks](https://github.com/AdyKalra/technolgytrends/blob/master/Development%20trends/Opinionated%20and%20automated%20code%20formatting%20using%20pre%20commit%20hooks.md)|Prettier has been getting our vote for JavaScript, but similar tools, such as Black for Python, are available for many other languages and are increasingly being built-in as we see with Golang and Elixir.|⭐⭐⭐|
-|[Redis MongoDB Postgres](https://github.com/AdyKalra/technolgytrends/blob/master/Development%20trends/Redis%20MongoDB%20Postgres.md)|In-memory data structure project implementing a distributed, in-memory key-value database with optional durability.|⭐⭐⭐|
+|[Redis MongoDB Postgres](https://github.com/AdyKalra/technolgytrends/blob/master/Development%20trends/Redis%20MongoDB%20Postgres.md)|In-memory data structure project implementing a distributed, in-memory key-value database with optional durability.PostgreSQL is a free and open-source relational database management system (RDBMS) emphasizing extensibility and SQL compliance. |⭐⭐⭐|
 |[]()||⭐⭐⭐|
 | | **Testing Practice** |
 | [Testing Raodmap](https://github.com/anas-qa/Quality-Assurance-Road-Map) | Test Plan template, testing startegies, testing types, TDD , automation - mobile , web , API , contrct testing Packt, Testing Pyramid , Gap Analysis , Customer Insights , E2E regression suite |⭐⭐⭐|
@@ -100,6 +100,7 @@
 | | **Ops Practice** |
 |[Datadog](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/Datadog.md)|used by IT, operations, and development teams who build and operate applications that run on dynamic or hybrid cloud infrastructure.  Performance Monitoring category |⭐⭐|
 |[Kibana and Logstash](https://github.com/AdyKalra/technolgytrends/blob/master/Development%20trends/Kibana%20Logstash.md)|open source data visualization dashboard for Elasticsearch. It provides visualization capabilities on top of the content indexed on an Elasticsearch cluster. The ELK Stack is a collection of three open-source products — Elasticsearch, Logstash, and Kibana|⭐⭐|
+|[Splunk](https://github.com/AdyKalra/technolgytrends/blob/master/Development%20trends/Splunk.md)| searching, monitoring, and examining machine-generated Big Data through a web-style interface. Splunk performs capturing, indexing, and correlating the real-time data in a searchable container from which it can produce graphs, reports, alerts, dashboards, and visualizations.|⭐⭐⭐|
 </details>
 
 <!--- END OF TOPIC--->
