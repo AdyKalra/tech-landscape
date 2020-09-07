@@ -31,7 +31,7 @@
 **Legend:** ⭐⭐⭐-Significant ⭐⭐-Insightful ⭐-Good to know
 
 <details>
-<summary>🔧 Technical</summary>
+<summary>🔧 Technical - Big Picture | Front-end | Back-end | Generic Dev | Testing  | Mobile Dev | Devops/Cloud Platfrom | Architecture | Ops </summary>
 
 |  Name |  Summary |   Ratings |
 |:-:    |:-:       |:-:        |
