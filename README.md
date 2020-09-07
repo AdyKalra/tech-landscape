@@ -55,11 +55,10 @@
 |[Infrastructure as Code](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/Infrastructure%20as%20Code.md)|Examples of infrastructure-as-code tools include AWS CloudFormation, Red Hat Ansible, Chef, Puppet, SaltStack and HashiCorp Terraform. Some tools rely on a domain-specific language (DSL), while others use a standard template format, such as YAML and JSON.|⭐⭐⭐|
 |[Infrastructure configuration scanner](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/Infrastructure%20configuration%20scanner.md)|to ensure the configuration is safe and secure - open-source scanners such as prowler for AWS and kube-bench for Kubernetes|⭐⭐⭐|
 |[Kubernetes ](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/K8s.md)|vendor-agnostic cluster and container management tool, open-sourced by Google, platform for automating deployment, scaling, and operations of application containers across clusters of hosts , Managed K8s|⭐⭐⭐|
-|[]()||⭐⭐⭐|
-|[]()||⭐⭐⭐|
-|[]()||⭐⭐⭐|
-|[]()||⭐⭐⭐|
-|[]()||⭐⭐⭐|
+|[Nginx](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/Nginx.md)|web server which can also be used as a reverse proxy, load balancer, mail proxy and HTTP cache. a reverse proxy is a type of proxy server that retrieves resources on behalf of a client from one or more servers. These resources are then returned to the client, appearing as if they originated from the proxy server itself.|⭐⭐|
+|[Pipelines as Code](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/Pipelines%20as%20Code.md)|Emphasizes that the configuration of delivery pipelines that build, test and deploy our applications or infrastructure should be treated as code. LambdaCD, Drone, GoCD and Concourse are examples that allow usage of this technique.|⭐⭐⭐|
+|[Secrets as a service](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/Secrets%20as%20a%20service.md)|With this technique you can use tools such as Vault or AWS Key Management Service (KMS) to read/write secrets over an HTTPS endpoint with fine-grained levels of access control.Secrets as a service uses external identity providers such as AWS IAM to identify the actors who request access to secrets. |⭐|
+|[Service mesh](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/Service%20mesh.md)|approach to operating a secure, fast and reliable microservices ecosystem It has been an important stepping stone in making it easier to adopt microservices at scale.It offers discovery, security, tracing, monitoring and failure handling. It provides these cross-functional capabilities without the need for a shared asset such as an API gateway or baking libraries into each service.|⭐⭐⭐|
 |[]()||⭐⭐⭐|
 | | **Architecture Practice** |
 | [Architecture decision records](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/ADRs.md) | document how and why a decision was reached within a codebase.|⭐⭐|
