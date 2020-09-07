@@ -51,10 +51,10 @@
 |[API Gateway](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/AWS%20API%20Gateway.md)| reating, publishing, maintaining, monitoring, and securing REST, HTTP, and WebSocket APIs at any scale. server that is the single entry point into the system. ... The API Gateway is responsible for request routing, composition, and protocol translation. All requests from clients first go through the API Gateway. It then routes requests to the appropriate microservice / API Gateway Act as a Load Balancer|⭐⭐|
 |[AWS Serverless Application Model (SAM)](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/AWS%20SAM.md)| open-source framework for building serverless applications. It provides shorthand syntax to express functions, APIs, databases, and event source mappings. With just a few lines per resource, you can define the application you want and model it using YAML.AWS SAM templates are an extension of AWS CloudFormation templates|⭐⭐|
 |[Buildkite](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/Buildkite.md)|platform for running fast, secure, and scalable continuous integration pipelines on your own infrastructure|⭐|
-|[]()||⭐⭐⭐|
-|[]()||⭐⭐⭐|
-|[]()||⭐⭐⭐|
-|[]()||⭐⭐⭐|
+|[Infrastructure Diagrams as Code](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/Infrastructure%20Diagrams%20as%20Code.md)|Diagrams lets you draw the cloud system architecture using Python code and allows you to track the architecture diagram changes in any version control system.currently supports six major providers: AWS, Azure, GCP, Kubernetes, Alibaba Cloud and Oracle Cloud.|⭐|
+|[Infrastructure as Code](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/Infrastructure%20as%20Code.md)|Examples of infrastructure-as-code tools include AWS CloudFormation, Red Hat Ansible, Chef, Puppet, SaltStack and HashiCorp Terraform. Some tools rely on a domain-specific language (DSL), while others use a standard template format, such as YAML and JSON.|⭐⭐⭐|
+|[Infrastructure configuration scanner](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/Infrastructure%20configuration%20scanner.md)|to ensure the configuration is safe and secure - open-source scanners such as prowler for AWS and kube-bench for Kubernetes|⭐⭐⭐|
+|[Kubernetes ](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/K8s.md)|vendor-agnostic cluster and container management tool, open-sourced by Google, platform for automating deployment, scaling, and operations of application containers across clusters of hosts , Managed K8s|⭐⭐⭐|
 |[]()||⭐⭐⭐|
 |[]()||⭐⭐⭐|
 |[]()||⭐⭐⭐|
