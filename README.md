@@ -48,7 +48,17 @@
 |[android roadmap](https://roadmap.sh/android) |Kotlin , Java |⭐⭐|
 | | **DevOps / Cloud Platform Practice** |
 | [Devops Roadmap](https://github.com/kamranahmedse/developer-roadmap) | Pytho, Ruby , NodeJS. initd, systemd. OS - Linus , FreeBSD. Terminal - maniupaltion tools,, BASH, vim, network. Protocosl - http, ftp, ssh. Reverseproxy, Caching server, Forward Proxy , Load balancer, firewall. Webserver - Nginx, Service Mesh - Istio. Containers, Config mgmt, container orchestration, Infra provisioning. CI/CD tools, Infra monitoring - Prometheus , Nagios, Grafana. Appln Monitoring - NewRelic , AppDynamics. Log Mgmt - Elastic stalk, splunk sumo. Cloud - AWS , GCP, Azure. Cloud Design Patterns - Availability , Data Management.  |⭐⭐⭐|  
-|[API Gateway](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/AWS%20API%20Gateway.md)| reating, publishing, maintaining, monitoring, and securing REST, HTTP, and WebSocket APIs at any scale. server that is the single entry point into the system. ... The API Gateway is responsible for request routing, composition, and protocol translation. All requests from clients first go through the API Gateway. It then routes requests to the appropriate microservice / API Gateway Act as a Load Balancer|⭐|
+|[API Gateway](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/AWS%20API%20Gateway.md)| reating, publishing, maintaining, monitoring, and securing REST, HTTP, and WebSocket APIs at any scale. server that is the single entry point into the system. ... The API Gateway is responsible for request routing, composition, and protocol translation. All requests from clients first go through the API Gateway. It then routes requests to the appropriate microservice / API Gateway Act as a Load Balancer|⭐⭐|
+|[AWS Serverless Application Model (SAM)](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/AWS%20SAM.md)| open-source framework for building serverless applications. It provides shorthand syntax to express functions, APIs, databases, and event source mappings. With just a few lines per resource, you can define the application you want and model it using YAML.AWS SAM templates are an extension of AWS CloudFormation templates|⭐⭐|
+|[Buildkite](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/Buildkite.md)|platform for running fast, secure, and scalable continuous integration pipelines on your own infrastructure|⭐|
+|[]()||⭐⭐⭐|
+|[]()||⭐⭐⭐|
+|[]()||⭐⭐⭐|
+|[]()||⭐⭐⭐|
+|[]()||⭐⭐⭐|
+|[]()||⭐⭐⭐|
+|[]()||⭐⭐⭐|
+|[]()||⭐⭐⭐|
 |[]()||⭐⭐⭐|
 |[]()||⭐⭐⭐|
 | | **Architecture Practice** |
@@ -69,7 +79,8 @@
 | [Real world architectures](https://github.com/donnemartin/system-design-primer#real-world-architectures) |Articles on how real world systems are designed.|⭐⭐⭐|
 | [Six shifts to create a game-changing data architecture](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/Six%20shifts%20to%20create%20a%20game-changing%20data%20architecture.md) |From on-premise to cloud-based data platforms, From batch to real-time data processing, From pre-integrated commercial solutions to modular, best-of-breed platforms, From point-to-point to decoupled data access, From an enterprise warehouse to domain-based architecture, From rigid data models toward flexible, extensible data schemas |⭐|
 | | **Ops Practice** |
-| []() | | 
+|[Datadog](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/Datadog.md)|used by IT, operations, and development teams who build and operate applications that run on dynamic or hybrid cloud infrastructure.  Performance Monitoring category |⭐⭐|
+|[]()||⭐⭐⭐|
 </details>
 
 <!--- END OF TOPIC--->
@@ -109,7 +120,7 @@
 | [Design Patterns](http://en.clouddesignpattern.org/index.php/Main_Page) | sensible defaults Design Patterns / catalouge - collection of solutions and design ideas for using AWS cloud technology to solve common systems design problems |⭐⭐|  
 | [this-is-my-architecture](https://aws.amazon.com/this-is-my-architecture/?sc_channel=EL&sc_campaign=Explainer_2017_vid&sc_medium=YouTube&sc_content=video942&sc_detail=EXPLAINER&sc_country=US&tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc) | Clarity of bigger picture within Org - Innovative cloud architectures from AWS partners and customers |⭐⭐|  
 | | **Monitoring** |
-| | |
+|[Datadog](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/Datadog.md)|used by IT, operations, and development teams who build and operate applications that run on dynamic or hybrid cloud infrastructure.  Performance Monitoring category |⭐⭐|
 | | **Proactive failiure notification** |
 | | |
 | | **Engineering efficiency** |
