@@ -181,6 +181,8 @@ Latency, Errors, Traffic, and Saturation.|⭐⭐⭐|
 |:-:    |:-:       |:-:        |   
 | | **Recruitment** |   |
 |[awesome-AI-ML-talent-management](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/awesome-AI_ML_Talent_Mangement.md)|ai in talent mgmnt research|⭐⭐| 
+|[engineeringladders](https://github.com/jorgef/engineeringladders)|A framework for Engineering Managers - roles explained|⭐⭐| 
+|[manager-resources](https://github.com/VGraupera/manager-resources)|A curated list of resources for front-line engineering managers|⭐⭐|
 | | **Reviews and evaluate work** |  
 | [patterns in teams and ICs](https://www.pluralsight.com/product/flow/20-patterns)| 20 patterns to watch for in your engineering team - teams and IC patterns tools like flow and decision making |⭐⭐|  
 | Westrum Organisation Culture ||⭐⭐⭐|  
@@ -191,7 +193,8 @@ Latency, Errors, Traffic, and Saturation.|⭐⭐⭐|
 |[Managers Playbook](https://github.com/ksindi/managers-playbook)|Heuristics for effective management.|⭐⭐⭐|
 |[Engineering Management](https://github.com/charlax/engineering-management)|A collection of inspiring resources related to engineering management and tech leadership|⭐⭐⭐|
 |[digital-transformation-leadership-manifesto](https://enterprisersproject.com/article/2020/7/digital-transformation-leadership-manifesto)|A manifesto for moving from good manager to true IT leader|⭐|
-
+|[engineering-management-resources](https://github.com/afternoon/engineering-management-resources)|A list of resources for engineering managers of all levels|⭐⭐|
+| [Digital transformation: 8 ways to spot your organization's rising leaders](https://enterprisersproject.com/article/2020/7/digital-transformation-rising-leaders)| Pointers on leadership in DT|
 </details>
 
 <!--- END OF TOPIC--->
