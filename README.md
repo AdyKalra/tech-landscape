@@ -175,6 +175,7 @@ Latency, Errors, Traffic, and Saturation.|⭐⭐⭐|
 |  Name |  Summary |   Ratings |
 |:-:    |:-:       |:-:        |   
 | | **Recruitment** |   |
+|[awesome-AI-ML-talent-management](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/awesome-AI_ML_Talent_Mangement.md)|ai in talent mgmnt research|⭐⭐| 
 | | **Reviews and evaluate work** |  
 | [patterns in teams and ICs](https://www.pluralsight.com/product/flow/20-patterns)| 20 patterns to watch for in your engineering team - teams and IC patterns tools like flow and decision making |⭐⭐|  
 | Westrum Organisation Culture ||⭐⭐⭐|  
@@ -201,6 +202,7 @@ Latency, Errors, Traffic, and Saturation.|⭐⭐⭐|
 | Engineering maturity assessment | 12 factor app - measure engineering maturity every quarter |⭐⭐⭐|  
 |[Five things all execs should know about technology](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/01%20Five%20things%20all%20execs%20should%20know%20about%20technology.md)|Technology excellence matters, Digital talent is your key to success, Invest in continuous delivery & DevOps to deliver customer value faster., Building digital platforms, Moving from project to product thinking|⭐|  
 |[APIs as Digital Factories](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/APIs%20as%20Digital%20Factories.md)|Don’t use technologies (and apis) to create new digital business. Build your software to upgrade YOUR business competitive edge for all customers, all employees, all brands, all channels…|⭐| 
+|[How to measure – and manage – technical debt](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/measure%20and%20manage%20technical%20debt.md)|Technical debt, a term first coined by Ward Cunningham, is not unlike financial debt: It refers to the practice of making coding or design decisions to expedite production or gain other short-term benefits, knowing that these decisions may require corrections later.|⭐⭐⭐|
 | | **Transformation Challenges** |
 |[Adaptive IT: Transformational framework](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Adaptive%20IT:%20Transformational%20framework.md)|five pillars of the adaptive IT framework and thier measures.|⭐⭐⭐|
 |[Digital transformation: 3 eye-opening tests to gauge customer focus](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Digital%20transformation%20-%20tests%20to%20gauge%20customer%20focus.md)|90-Minute IT Leadership Challenge, IT Roadmap Review, The Heartburn Test |⭐⭐|
