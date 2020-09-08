@@ -135,7 +135,10 @@
     
 |  Name |  Summary |   Ratings |
 |:-:    |:-:       |:-:        | 
-| | **Cloud Tools for Practices / Sensibe Deafults** |
+| | **Cloud Tools for Practices / Compliance / Sensibe Deafults** |
+| STAX / Cloud Confirmity | cloud compliance and measuring where we are , cost  | ⭐⭐⭐|  
+| Well architected framework | Cloud maturity and assesment | ⭐⭐⭐|  
+|[AWS Analytics Lens](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Analytics%20Lens.md)|The new Analytics Lens offers comprehensive guidance to make sure that your analytics applications are designed in accordance with AWS best practices. The goal is to give you a consistent way to design and evaluate cloud architectures, based on the following five pillars of the well architected framework:Operational excellence,Security,Reliability,Performance efficiency,Cost optimization|⭐⭐| 
 |[cdk patterns](https://github.com/cdk-patterns/serverless) | SensibleDeafults for Patterns used - all of the official AWS Serverless architecture patterns built with CDK for developers to use |⭐⭐|  
 | [cloudformation](https://github.com/aws-cloudformation/awesome-cloudformation) | cloud formation catalouge - A curated list of resources and projects for working with AWS CloudFormation. https://aws.amazon.com/cloudformation/ |⭐⭐⭐|  
 | [Design Patterns](http://en.clouddesignpattern.org/index.php/Main_Page) | sensible defaults Design Patterns / catalouge - collection of solutions and design ideas for using AWS cloud technology to solve common systems design problems |⭐⭐|  
@@ -145,9 +148,8 @@
 | | **Proactive failiure notification** |
 | | |
 | | **Engineering efficiency** |
-| STAX / Cloud Confirmity | cloud compliance and measuring where we are , cost  | ⭐⭐|  
-| Well architected framework | Cloud maturity and assesment | 
 | [patterns in teams and ICs](https://www.pluralsight.com/product/flow/20-patterns)| 20 patterns to watch for in your engineering team - teams and IC patterns tools like flow and decision making | ⭐⭐|  
+|[]()||⭐⭐⭐| 
 
 </details>
 
@@ -176,6 +178,8 @@
 |:-:    |:-:       |:-:        | 
 | | **Engineering Techniques - Big Picture** |
 | [engineering roadmaps](https://roadmap.sh/) | all Reference Roadmaps - roadmaps on web | ⭐⭐⭐|  
+|[Adaptive IT: Transformational framework](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Adaptive%20IT:%20Transformational%20framework.md)|five pillars of the adaptive IT framework and thier measures.|⭐⭐⭐|
+|[Auxiliary Engineering](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Auxillary%20Engineering.md)|Partnering with engineering teams to increase their velocity and build a lasting culture of quality.” We travel from team to team, embedding for enough time to help developers build habits as they build an MVP.|⭐⭐| 
 | [Google Engineering practices](https://github.com/google/eng-practices) | Sensible Deafults template for practices - Google has many generalized engineering practices that cover all languages and all projects. These documents represent the collective experience of various best practices that we have developed over time. |⭐⭐|  
 | Four key metrics | MMTR , Lead Time , Deployment frequency and Change fail rate - Measure engineering team health | ⭐⭐⭐|  
 | Gitprime for data driven mindset | Coding Days , Impact , Efficiency , Commits per day , Repos - Data driven engineering metrics | ⭐⭐⭐|  
@@ -184,6 +188,7 @@
 |[Five things all execs should know about technology](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/01%20Five%20things%20all%20execs%20should%20know%20about%20technology.md)|Technology excellence matters, Digital talent is your key to success, Invest in continuous delivery & DevOps to deliver customer value faster., Building digital platforms, Moving from project to product thinking|⭐|  
 |[APIs as Digital Factories](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/APIs%20as%20Digital%20Factories.md)|Don’t use technologies (and apis) to create new digital business. Build your software to upgrade YOUR business competitive edge for all customers, all employees, all brands, all channels…|⭐| 
 | | **Transformation Challenges** |
+|[Adaptive IT: Transformational framework](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Adaptive%20IT:%20Transformational%20framework.md)|five pillars of the adaptive IT framework and thier measures.|⭐⭐⭐|
 |[20 patterns to watch for in your engineering team](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/20%20patterns%20to%20watch%20for%20in%20your%20engineering%20team.md)|Effective managers view their teams as complex interdependent systems, with inputs and outputs.When the outputs aren’t as expected, great managers approach the problem with curiosity and are relentless in their pursuit of the root cause. They watch code reviews and visualize work patterns, spotting bottlenecks or process issues that, when cleared, increase the overall health and capacity of the team.By searching for “why,” they uncover organizational issues and learn how their teams work and how to re how to resolve these problems in the future.20 patterns is a collection of work patterns we’ve observed in working with hundreds of software teams.|⭐⭐| 
 | Lack of expertise and exposure |  | 
 | pushback from people and existing leaders | |
@@ -192,6 +197,7 @@
 | resistance to change / mindset shift  | |
 | | **Operating Model** |
 | Idea - Plan - Build - measure | | 
+|[Adaptive IT: Transformational framework](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Adaptive%20IT:%20Transformational%20framework.md)|five pillars of the adaptive IT framework and thier measures.|⭐⭐⭐| 
 |[]()||⭐⭐⭐| 
   
 </details>
