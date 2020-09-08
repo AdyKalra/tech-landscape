@@ -35,9 +35,10 @@
 
 |  Name |  Summary |   Ratings |
 |:-:    |:-:       |:-:        |
-| | **The Big Picture / Practices** |
+| | **The Big Picture tech/ Practices** |
 | [High Level Design](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/High%20Level%20Design.md)| Overview of Client -> CDN / DNS -> LB -> Http Cache -> APIG -> XL -> Feature Services -> Core Services -> Domains |⭐⭐⭐ |
 | [Stackshare tools](https://stackshare.io/categories) | All the best open source and Software as a Service (SaaS) tools in one place |⭐⭐ |
+|[]()||⭐⭐⭐|
 | | **Front-end Development Practice** |
 | [Front-end Roadmap](https://github.com/kamranahmedse/developer-roadmap) | concepts - hoisting, event bubbling, scope prototype, shadow DOM. package managers - npm, yarn. CSS, BEM, Saas, Postcss.build tools - npm nuild, module bundlers webpack, linters and formatters, React Angualr Vue, modern css, css frameworks - reactstrap, mterialUI, Testing - Jest Cypress Mocha Chai. Progressive TypeScript, Server Side Rendering , GraphQL. ReactNative , Flutter , Static site generators  |⭐⭐⭐|
 |[ReactJS](https://github.com/AdyKalra/technolgytrends/blob/master/Development%20trends/ReactJS.md)|open-source JavaScript library that is used for building user interfaces specifically for single-page applications. It's used for handling the view layer for web and mobile apps. React also allows us to create reusable UI components.|⭐⭐⭐|
@@ -162,7 +163,7 @@
 | [patterns in teams and ICs](https://www.pluralsight.com/product/flow/20-patterns)| 20 patterns to watch for in your engineering team - teams and IC patterns tools like flow and decision making |⭐⭐|  
 | Westrum Organisation Culture ||⭐⭐⭐|  
 | | **Learning Culture** |
-| | |
+|[]()||⭐⭐⭐| 
 
 </details>
 
@@ -173,14 +174,17 @@
 
 |  Name |  Summary |Ratings |
 |:-:    |:-:       |:-:        | 
-| | **Engineering Techniques ** |
+| | **Engineering Techniques - Big Picture** |
 | [engineering roadmaps](https://roadmap.sh/) | all Reference Roadmaps - roadmaps on web | ⭐⭐⭐|  
 | [Google Engineering practices](https://github.com/google/eng-practices) | Sensible Deafults template for practices - Google has many generalized engineering practices that cover all languages and all projects. These documents represent the collective experience of various best practices that we have developed over time. |⭐⭐|  
 | Four key metrics | MMTR , Lead Time , Deployment frequency and Change fail rate - Measure engineering team health | ⭐⭐⭐|  
 | Gitprime for data driven mindset | Coding Days , Impact , Efficiency , Commits per day , Repos - Data driven engineering metrics | ⭐⭐⭐|  
 | Technology Radar | Internal tooling maturity | ⭐⭐⭐|  
 | Engineering maturity assessment | 12 factor app - measure engineering maturity every quarter |⭐⭐⭐|  
+|[Five things all execs should know about technology](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/01%20Five%20things%20all%20execs%20should%20know%20about%20technology.md)|Technology excellence matters, Digital talent is your key to success, Invest in continuous delivery & DevOps to deliver customer value faster., Building digital platforms, Moving from project to product thinking|⭐|  
+|[APIs as Digital Factories](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/APIs%20as%20Digital%20Factories.md)|Don’t use technologies (and apis) to create new digital business. Build your software to upgrade YOUR business competitive edge for all customers, all employees, all brands, all channels…|⭐| 
 | | **Transformation Challenges** |
+|[20 patterns to watch for in your engineering team](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/20%20patterns%20to%20watch%20for%20in%20your%20engineering%20team.md)|Effective managers view their teams as complex interdependent systems, with inputs and outputs.When the outputs aren’t as expected, great managers approach the problem with curiosity and are relentless in their pursuit of the root cause. They watch code reviews and visualize work patterns, spotting bottlenecks or process issues that, when cleared, increase the overall health and capacity of the team.By searching for “why,” they uncover organizational issues and learn how their teams work and how to re how to resolve these problems in the future.20 patterns is a collection of work patterns we’ve observed in working with hundreds of software teams.|⭐⭐| 
 | Lack of expertise and exposure |  | 
 | pushback from people and existing leaders | |
 | missing the overarching strategy across all business units in Digital | |
@@ -188,6 +192,7 @@
 | resistance to change / mindset shift  | |
 | | **Operating Model** |
 | Idea - Plan - Build - measure | | 
+|[]()||⭐⭐⭐| 
   
 </details>
 
