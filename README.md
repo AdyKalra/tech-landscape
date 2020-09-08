@@ -74,6 +74,9 @@
 |[]()||⭐⭐⭐|
 | | **Testing Practice** |
 | [Testing Raodmap](https://github.com/anas-qa/Quality-Assurance-Road-Map) | Test Plan template, testing startegies, testing types, TDD , automation - mobile , web , API , contrct testing Packt, Testing Pyramid , Gap Analysis , Customer Insights , E2E regression suite |⭐⭐⭐|
+|[Cypress and Puppeteer](https://github.com/AdyKalra/technolgytrends/blob/master/Testing%20trends/Cypress%20and%20Puppeteer.md)|JavaScript End to End Testing Framework|⭐⭐⭐|
+|[LocalStack](https://github.com/AdyKalra/technolgytrends/blob/master/Testing%20trends/LocalStack.md)|LocalStack solves this problem for AWS by providing local test double implementations of a wide range of AWS services including S3, Kinesis, DynamoDB and Lambda.|⭐⭐⭐|
+|[Scaling Automated Tests Beyond a Single Project](https://github.com/AdyKalra/technolgytrends/blob/master/Testing%20trends/Scaling%20Automated%20Tests%20Beyond%20a%20Single%20Project.md)|How to increase the ROI of your automated tests by using test frameworks with a highly readable DSL and reusable components|⭐⭐⭐|
 | | **Mobile Development Practice** |
 |[android roadmap](https://roadmap.sh/android) |Kotlin , Java |⭐⭐|
 | | **DevOps / Cloud Platform Practice** |
