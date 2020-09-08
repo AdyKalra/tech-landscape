@@ -127,17 +127,13 @@ Instead of creating a potentially unbounded number of monitoring metrics, we sug
 <!--- END OF TOPIC--->
 
 <details>
-<summary>📃 Process - Engineering Challenges | Change Management | Customer Insights | Visibility of Work in Value Stream | Mission Team Experimentation </summary>
+<summary>📃 Process - Change Management | Customer Insights | Visibility of Work in Value Stream | Mission Team Experimentation </summary>
 
 |  Name |  Summary |   Ratings |
 |:-:    |:-:       |:-:        |  
-| | **Engineering Challenges** |
-| Bug Bash | testing across verticals | ⭐⭐| 
-| DevOps culture| transitioning from Devops to CPT  |⭐⭐⭐|  
-| Web Modernisation| transitioning from legacy PHP to a SPA built on React and NodeJS (tiger team) |⭐⭐⭐|  
-| Serverless | Going completely serverless | ⭐⭐⭐| 
 | | **Change Management** |
 | Champions  | lead mini transformations |⭐| 
+|[the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist)|Books for people who are or aspire to manage/lead team(s) of software engineers|⭐⭐⭐| 
 | Design Patterns | building a repository of design patterns , BFF / XL , Domain driven design  | ⭐⭐| 
 | | **Customer Insights** |
 |  VOC , GA | working backwards from customer insights |⭐⭐|   
@@ -179,7 +175,7 @@ Latency, Errors, Traffic, and Saturation.|⭐⭐⭐|
 <!--- END OF TOPIC--->
 
 <details>
-<summary>🤝‍ Cultural - Recruitment | Learning  </summary>
+<summary>🤝‍ Cultural - Recruitment | Learning | Laedership </summary>
 
 |  Name |  Summary |   Ratings |
 |:-:    |:-:       |:-:        |   
@@ -190,6 +186,11 @@ Latency, Errors, Traffic, and Saturation.|⭐⭐⭐|
 | Westrum Organisation Culture ||⭐⭐⭐|  
 | | **Learning Culture** |
 |[]()||⭐⭐⭐| 
+| | **Leadership** |
+|  [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) | Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone. |⭐⭐⭐| 
+|[Managers Playbook](https://github.com/ksindi/managers-playbook)|Heuristics for effective management.|⭐⭐⭐|
+|[Engineering Management](https://github.com/charlax/engineering-management)|A collection of inspiring resources related to engineering management and tech leadership|⭐⭐⭐|
+|[digital-transformation-leadership-manifesto](https://enterprisersproject.com/article/2020/7/digital-transformation-leadership-manifesto)|A manifesto for moving from good manager to true IT leader|⭐|
 
 </details>
 
@@ -201,7 +202,12 @@ Latency, Errors, Traffic, and Saturation.|⭐⭐⭐|
 |  Name |  Summary |Ratings |
 |:-:    |:-:       |:-:        | 
 | | **Engineering Techniques - Big Picture** |
-| [engineering roadmaps](https://roadmap.sh/) | all Reference Roadmaps - roadmaps on web | ⭐⭐⭐|  
+| [engineering roadmaps](https://roadmap.sh/) | all Reference Roadmaps - roadmaps on web | ⭐⭐⭐| 
+| Bug Bash | testing across verticals | ⭐⭐| 
+| DevOps culture| transitioning from Devops to CPT  |⭐⭐⭐|  
+| Web Modernisation| transitioning from legacy PHP to a SPA built on React and NodeJS (tiger team) |⭐⭐⭐|  
+| Serverless | Going completely serverless | ⭐⭐⭐| 
+|[awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)|tech online talks and screencasts|⭐⭐| 
 |[Adaptive IT: Transformational framework](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Adaptive%20IT:%20Transformational%20framework.md)|five pillars of the adaptive IT framework and thier measures.|⭐⭐⭐|
 |[Auxiliary Engineering](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Auxillary%20Engineering.md)|Partnering with engineering teams to increase their velocity and build a lasting culture of quality.” We travel from team to team, embedding for enough time to help developers build habits as they build an MVP.|⭐⭐| 
 | [Google Engineering practices](https://github.com/google/eng-practices) | Sensible Deafults template for practices - Google has many generalized engineering practices that cover all languages and all projects. These documents represent the collective experience of various best practices that we have developed over time. |⭐⭐|  
