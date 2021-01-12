@@ -175,7 +175,7 @@ Latency, Errors, Traffic, and Saturation.|⭐⭐⭐|
 <!--- END OF TOPIC--->
 
 <details>
-<summary>🤝‍ Cultural - Recruitment | Learning | Laedership </summary>
+<summary>🤝‍ Cultural - Recruitment | Learning | Leadership </summary>
 
 |  Name |  Summary |   Ratings |
 |:-:    |:-:       |:-:        |   
