@@ -172,7 +172,7 @@
 <!--- END OF TOPIC--->
 
 <details>
-<summary>🤝‍ Cultural - Recruitment | Learning | Leadership </summary>
+<summary>🤝‍ Cultural - Recruitment | Learning | Leadership | Tech Blog | </summary>
 
 |  Name |  Summary |   Ratings |
 |:-:    |:-:       |:-:        |   
@@ -184,6 +184,7 @@
 | [patterns in teams and ICs](https://www.pluralsight.com/product/flow/20-patterns)| 20 patterns to watch for in your engineering team - teams and IC patterns tools like flow and decision making |⭐⭐|  
 | Westrum Organisation Culture ||⭐⭐⭐|  
 | | **Learning Culture** |
+|[launch company tech blog](https://www.welcometothejungle.com/en/articles/company-blog-tech)|considerations before launching a company tech blog|⭐⭐|
 |[]()||⭐⭐⭐| 
 | | **Leadership** |
 |  [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) | Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone. |⭐⭐⭐| 
