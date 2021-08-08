@@ -94,6 +94,7 @@
 |[Service mesh](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/Service%20mesh.md)|approach to operating a secure, fast and reliable microservices ecosystem It has been an important stepping stone in making it easier to adopt microservices at scale.It offers discovery, security, tracing, monitoring and failure handling. It provides these cross-functional capabilities without the need for a shared asset such as an API gateway or baking libraries into each service.|⭐⭐⭐|
 |[]()||⭐⭐⭐|
 | | **Architecture Practice** |
+|[Organising Architecture](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/Organising%20Architecture.md)||⭐⭐|
 | [Architecture decision records](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/ADRs.md) | document how and why a decision was reached within a codebase.|⭐⭐|
 |[Serverless Microservice Patterns for AWS](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/Design%20Patterns%20-%20Serverless.md)|Serverless Ecosystem, best practices , patterns|⭐⭐⭐|
 |[Domain-Oriented Microservice Architecture](https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/Domain-Oriented%20Microservice%20Architecture.md)| DOMA core principles and terminology, the Why, Uber's implementation|⭐⭐⭐|
