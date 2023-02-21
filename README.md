@@ -238,7 +238,9 @@ Tech Cheatsheet - Snapshot view of everything tech - tools , techniques , Cloud 
 | Idea - Plan - Build - measure | | 
 |[Adaptive IT: Transformational framework](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Adaptive%20IT:%20Transformational%20framework.md)|five pillars of the adaptive IT framework and thier measures.|⭐⭐⭐| 
 |[DORA's research program](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/DORA's%20research%20program.md)|guide to DevOps, along with six years of State of DevOps Reports|⭐⭐⭐|
-|[Developer-Effectiveness](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Developer-Effectiveness.md)||⭐⭐| 
+|[Developer-Effectiveness](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Developer-Effectiveness.md)|Increase dev productivity|⭐⭐| 
+|[DeScaling Organisation](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/DeScaling%20Organisation.md)|Maximum Meeting Size (MMS), Minimum Feedback Frequency (MFF) and Delegation/Collaboration Ratio (DCR).|⭐⭐⭐| 
+|[]()||⭐⭐⭐| 
 |[]()||⭐⭐⭐| 
   
 </details>
