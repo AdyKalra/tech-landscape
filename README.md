@@ -241,6 +241,7 @@ Tech Cheatsheet - Snapshot view of everything tech - tools , techniques , Cloud 
 |[Developer-Effectiveness](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Developer-Effectiveness.md)|Increase dev productivity|⭐⭐| 
 |[DeScaling Organisation](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/DeScaling%20Organisation.md)|Maximum Meeting Size (MMS), Minimum Feedback Frequency (MFF) and Delegation/Collaboration Ratio (DCR).|⭐⭐⭐| 
 |[Platform Engineering](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Platform%20Engineering.md)|TSOC [Time Spent Outside Code]empowers software developers to focus on their work rather than the systems needed to do their work|⭐⭐⭐| 
+|[Scaling Engineering](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Scaling%20Engineering.md)|Ideas from Github/Microsoft/Google|⭐⭐⭐| 
 |[]()||⭐⭐⭐| 
 |[]()||⭐⭐⭐| 
   
