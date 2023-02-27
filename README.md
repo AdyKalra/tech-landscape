@@ -145,6 +145,7 @@ Tech Cheatsheet - Snapshot view of everything tech - tools , techniques , Cloud 
 | | **Mission Team Experimentation** |
 | | | 
 | | **Visibility of Work in Value Stream** |
+|[Path-to-production Mapping](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Path-to-production%20mapping.md) | aPth-to-production mapping has been a near-universal practice since codifying Continuous Delivery, eyeopener and easiest way to discover areas of CI|⭐⭐⭐| 
 | | | 
 
 </details>
