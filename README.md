@@ -77,6 +77,7 @@ Tech Cheatsheet - Snapshot view of everything tech - tools , techniques , Cloud 
 |[Redis MongoDB Postgres](https://github.com/AdyKalra/technolgytrends/blob/master/Development%20trends/Redis%20MongoDB%20Postgres.md)|In-memory data structure project implementing a distributed, in-memory key-value database with optional durability.PostgreSQL is a free and open-source relational database management system (RDBMS) emphasizing extensibility and SQL compliance. |⭐⭐⭐|
 |[]()||⭐⭐⭐|
 | | **Testing Practice** |
+|[Component Visual Regression Testing](https://github.com/AdyKalra/technolgytrends/blob/master/Testing%20trends/Component%20Visual%20Regression%20Testing.md)|good balance between value and cost to ensure that no undesired visuals have been added to the application|⭐⭐|
 | [Testing Raodmap](https://github.com/anas-qa/Quality-Assurance-Road-Map) | Test Plan template, testing startegies, testing types, TDD , automation - mobile , web , API , contrct testing Packt, Testing Pyramid , Gap Analysis , Customer Insights , E2E regression suite |⭐⭐⭐|
 |[Cypress and Puppeteer](https://github.com/AdyKalra/technolgytrends/blob/master/Testing%20trends/Cypress%20and%20Puppeteer.md)|JavaScript End to End Testing Framework|⭐⭐⭐|
 |[LocalStack](https://github.com/AdyKalra/technolgytrends/blob/master/Testing%20trends/LocalStack.md)|LocalStack solves this problem for AWS by providing local test double implementations of a wide range of AWS services including S3, Kinesis, DynamoDB and Lambda.|⭐⭐⭐|
