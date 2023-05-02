@@ -49,6 +49,12 @@ Tech Cheatsheet - Snapshot view of everything tech - tools , techniques , Cloud 
 |[Scaling Microservices](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Scaling%20Microservices.md)|Use a container-based pipeline,Consolidate to a single pipeline that operates with context,Adopt canary release testing|⭐⭐|
 |[Serverless](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Serverless.md)|The term 'serverless' is somewhat misleading, as there are still servers providing these backend services, but all of the server space and infrastructure concerns are handled by the vendor. Serverless means that the developers can do their work without having to worry about servers at all. - managed services|⭐⭐⭐|
 |[Real World Scenarios - Serverless](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Scaling%20Serverless%20Applications.md)|org examples|⭐⭐⭐|
+| | **Architecture Practice** |
+|[Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture)|Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design.|⭐⭐⭐|
+|[]()||⭐⭐⭐|
+|[]()||⭐⭐⭐|
+|[]()||⭐⭐⭐|
+|[]()||⭐⭐⭐|
 | | **Front-end Development Practice** |
 | [Front-end Roadmap](https://github.com/kamranahmedse/developer-roadmap) | concepts - hoisting, event bubbling, scope prototype, shadow DOM. package managers - npm, yarn. CSS, BEM, Saas, Postcss.build tools - npm nuild, module bundlers webpack, linters and formatters, React Angualr Vue, modern css, css frameworks - reactstrap, mterialUI, Testing - Jest Cypress Mocha Chai. Progressive TypeScript, Server Side Rendering , GraphQL. ReactNative , Flutter , Static site generators  |⭐⭐⭐|
 |[ReactJS](https://github.com/AdyKalra/technolgytrends/blob/master/Development%20trends/ReactJS.md)|open-source JavaScript library that is used for building user interfaces specifically for single-page applications. It's used for handling the view layer for web and mobile apps. React also allows us to create reusable UI components.|⭐⭐⭐|
