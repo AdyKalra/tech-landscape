@@ -51,10 +51,13 @@ Tech Cheatsheet - Snapshot view of everything tech - tools , techniques , Cloud 
 |[Real World Scenarios - Serverless](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Scaling%20Serverless%20Applications.md)|org examples|⭐⭐⭐|
 | | **Architecture Practice** |
 |[Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture)|Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design.|⭐⭐⭐|
-|[]()||⭐⭐⭐|
-|[]()||⭐⭐⭐|
-|[]()||⭐⭐⭐|
-|[]()||⭐⭐⭐|
+|  [awesome-software-architect-roadmap](https://github.com/AlaaAttya/software-architect-roadmap) | View roadmaps about architect roles to help you learn |⭐⭐⭐|
+|  [awesome-software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) | The software design and architecture roadmap for any developer https://solidbook.io |⭐⭐⭐|
+|[data-oriented-design](https://github.com/dbartolini/data-oriented-design)|A curated list of data oriented design resources.|⭐⭐|
+|[system-design-primer](https://github.com/donnemartin/system-design-primer)|Learn how to design large-scale systems.|⭐⭐⭐|
+|[awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)|The Patterns of Scalable, Reliable, and Performant Large-Scale Systems http://awesome-scalability.com/|⭐⭐|
+|[system-design-in-practice](https://github.com/resumejob/system-design-in-practice)|Learn how to design a system from tech company blogs - real world examples|⭐⭐|
+|[awesome-software-architecture-web](https://mehdihadeli.github.io/awesome-software-architecture/)|A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.|⭐⭐⭐|
 | | **Front-end Development Practice** |
 | [Front-end Roadmap](https://github.com/kamranahmedse/developer-roadmap) | concepts - hoisting, event bubbling, scope prototype, shadow DOM. package managers - npm, yarn. CSS, BEM, Saas, Postcss.build tools - npm nuild, module bundlers webpack, linters and formatters, React Angualr Vue, modern css, css frameworks - reactstrap, mterialUI, Testing - Jest Cypress Mocha Chai. Progressive TypeScript, Server Side Rendering , GraphQL. ReactNative , Flutter , Static site generators  |⭐⭐⭐|
 |[ReactJS](https://github.com/AdyKalra/technolgytrends/blob/master/Development%20trends/ReactJS.md)|open-source JavaScript library that is used for building user interfaces specifically for single-page applications. It's used for handling the view layer for web and mobile apps. React also allows us to create reusable UI components.|⭐⭐⭐|
