@@ -96,6 +96,7 @@ Tech Cheatsheet - Snapshot view of everything tech - tools , techniques , Cloud 
 |[android roadmap](https://roadmap.sh/android) |Kotlin , Java |⭐⭐|
 | | **DevOps / Cloud Platform Practice** |
 |[services-engineering](https://github.com/mmcgrana/services-engineering)|A reading list for services engineering, with a focus on cloud infrastructure services|⭐⭐⭐|
+|[DevOps-Guide](https://github.com/Tikam02/DevOps-Guide)|DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.|⭐⭐⭐|
 | [Devops Roadmap](https://github.com/kamranahmedse/developer-roadmap) | Pytho, Ruby , NodeJS. initd, systemd. OS - Linus , FreeBSD. Terminal - maniupaltion tools,, BASH, vim, network. Protocosl - http, ftp, ssh. Reverseproxy, Caching server, Forward Proxy , Load balancer, firewall. Webserver - Nginx, Service Mesh - Istio. Containers, Config mgmt, container orchestration, Infra provisioning. CI/CD tools, Infra monitoring - Prometheus , Nagios, Grafana. Appln Monitoring - NewRelic , AppDynamics. Log Mgmt - Elastic stalk, splunk sumo. Cloud - AWS , GCP, Azure. Cloud Design Patterns - Availability , Data Management.  |⭐⭐⭐|
 |[devops-resources](https://github.com/bregman-arie/devops-resources)|Useful resources and information regarding DevOps and secondly, provide some roadmap for those who want to practice DevOps.|⭐⭐|
 |[devops-exercises](https://github.com/bregman-arie/devops-exercises)|Questions and exercises on various technical topics, sometimes related to DevOps and SRE.|⭐⭐|
