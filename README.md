@@ -50,6 +50,7 @@ Tech Cheatsheet - Snapshot view of everything tech - tools , techniques , Cloud 
 |[Serverless](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Serverless.md)|The term 'serverless' is somewhat misleading, as there are still servers providing these backend services, but all of the server space and infrastructure concerns are handled by the vendor. Serverless means that the developers can do their work without having to worry about servers at all. - managed services|⭐⭐⭐|
 |[Real World Scenarios - Serverless](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Scaling%20Serverless%20Applications.md)|org examples|⭐⭐⭐|
 | | **Architecture Practice** |
+|[system-design-notebook](https://github.com/bregman-arie/system-design-notebook)|Learn System Design step by step|⭐⭐⭐|
 |[Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture)|Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design.|⭐⭐⭐|
 |  [awesome-software-architect-roadmap](https://github.com/AlaaAttya/software-architect-roadmap) | View roadmaps about architect roles to help you learn |⭐⭐⭐|
 |  [awesome-software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) | The software design and architecture roadmap for any developer https://solidbook.io |⭐⭐⭐|
