@@ -188,6 +188,7 @@ Tech Cheatsheet - Snapshot view of everything tech - tools , techniques , Cloud 
 | | **Engineering efficiency** |
 | [patterns in teams and ICs](https://www.pluralsight.com/product/flow/20-patterns)| 20 patterns to watch for in your engineering team - teams and IC patterns tools like flow and decision making | ⭐⭐|  
 |[Data Driven Engineering](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Data%20Driven%20Engineering.md)|Data helps IT leaders visualize how work is being done, the quality and quantity of output, and how they can improve the lives of staff.|⭐⭐| 
+|[Dev Productivity Metrics](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Dev%20Productivity%20Metrics.md)| Developer Productivity Metrics at tech companies|⭐⭐⭐|
 
 </details>
 
